@@ -1,275 +1,505 @@
 {
   "sounds": [
     {
-      "id": "bab5a5f7",
-      "title": "موسيقى إعلانات التجارة والفلوس 💰",
-      "author": "Business Vibes",
-      "usesCount": "+14.3K استخدام",
-      "growthRate": "🔥 نمو +1089% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=تجارة%20إلكترونية%20ترند",
-      "category": "تجارة / بزنس"
+      "id": "bbf33a55",
+      "title": "موسيقى الميك أب وتجهيز العرايس 👰",
+      "author": "Beauty Glow",
+      "usesCount": "+64.2K استخدام",
+      "growthRate": "📈 نمو +590% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/10/05/audio_1081541097.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=ميك%20اب%20ترند",
+      "category": "موضة / ميك_اب"
     },
     {
-      "id": "7d5bed8c",
-      "title": "إيقاع إضاءات النيون المخفية 💡",
-      "author": "Lighting Design",
-      "usesCount": "+53.1K استخدام",
-      "growthRate": "📈 نمو +459% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=إضاءة%20مخفية%20ديكور",
-      "category": "ديكور / إضاءة"
+      "id": "4cc6485c",
+      "title": "ترند فصلات آخر الليل 🌚",
+      "author": "Night Laughs",
+      "usesCount": "+492.6K استخدام",
+      "growthRate": "🔥 نمو +1230% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/09/24/audio_031c26b583.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=فصلات%20اخر%20الليل",
+      "category": "كوميديا / يوميات"
     },
     {
-      "id": "dece9bd9",
-      "title": "موسيقى التحفيز وإشعال الطاقة ⚡",
-      "author": "Motivation Mena",
-      "usesCount": "+474.9K استخدام",
-      "growthRate": "🔥 نمو +1310% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=تحفيز%20طاقة%20ترند",
-      "category": "تحفيز / تطوير"
+      "id": "75bbb5df",
+      "title": "موسيقى التحديات الرياضية الصعبة 🥊",
+      "author": "Fighter AR",
+      "usesCount": "+183.3K استخدام",
+      "growthRate": "🔥 نمو +1201% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/10/14/audio_349d44e54f.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=تحدي%20رياضي%20ترند",
+      "category": "رياضة / تحديات"
     },
     {
-      "id": "155d01e6",
-      "title": "صوتيات افتتاح المشاريع والمحلات ✂️",
-      "author": "Startup AR",
-      "usesCount": "+402.2K استخدام",
-      "growthRate": "🔥 نمو +703% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=مشروع%20جديد%20ترند",
-      "category": "تجارة / افتتاح"
-    },
-    {
-      "id": "01204e4d",
-      "title": "ترند تحويل المكان 180 درجة 🛠️",
-      "author": "Makeover Pro",
-      "usesCount": "+802.1K استخدام",
-      "growthRate": "📈 نمو +488% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=قبل%20وبعد%20الديكور",
-      "category": "ديكور / تشطيب"
-    },
-    {
-      "id": "0d74521f",
-      "title": "إيقاع التسويق الرقمي والمبيعات 📈",
-      "author": "Market Pro",
-      "usesCount": "+529.1K استخدام",
-      "growthRate": "🔥 نمو +1265% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=تسويق%20رقمي%20ترند",
-      "category": "تسويق / إعلانات"
-    },
-    {
-      "id": "af690e04",
-      "title": "شيلة العز والفخامة (ترند صاعد) 🦅",
-      "author": "VIP Music Arabia",
-      "usesCount": "+636.1K استخدام",
-      "growthRate": "🔥 نمو +822% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=شيلة%20فخامة%20ترند",
-      "category": "خليجي / فخامة"
-    },
-    {
-      "id": "8b3f60cc",
-      "title": "إيقاع الرياكشنات والمواقف المحرجة 🤪",
-      "author": "Reaction Pro",
-      "usesCount": "+744.5K استخدام",
-      "growthRate": "🔥 نمو +788% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=رياكشن%20ترند",
-      "category": "كوميديا / رياكشن"
-    },
-    {
-      "id": "3830044e",
-      "title": "صوتيات المجالس والدواوين ☕",
-      "author": "Diwaniya Vibes",
-      "usesCount": "+466.9K استخدام",
-      "growthRate": "🔥 نمو +758% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=سوالف%20ديوانية%20ترند",
-      "category": "خليجي / مجلس"
-    },
-    {
-      "id": "b05b4f33",
-      "title": "ترند السفر والمغامرات ورحلات الطيران ✈️",
-      "author": "Travel Vibes",
-      "usesCount": "+702.7K استخدام",
-      "growthRate": "📈 نمو +310% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=سفر%20ومغامرات%20ترند",
-      "category": "سفر / فلوق"
-    },
-    {
-      "id": "dafba94d",
-      "title": "إيقاع لوفاي التركيز (هادئ جداً) 📚",
-      "author": "Study Lofi Mena",
-      "usesCount": "+731.3K استخدام",
-      "growthRate": "🔥 نمو +1141% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=موسيقى%20لوفاي%20هادئة",
-      "category": "بودكاست / تركيز"
-    },
-    {
-      "id": "aef2c4ff",
-      "title": "إيقاع الكشتات والبر والسفر 🏕️",
-      "author": "Desert Chill",
-      "usesCount": "+533.8K استخدام",
-      "growthRate": "🔥 نمو +1388% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=كشتة%20البر%20ترند",
-      "category": "خليجي / فلوق"
-    },
-    {
-      "id": "0be7c8e6",
-      "title": "ترند تغليف الطلبات الشحن (ASMR) 📦",
-      "author": "Packing ASMR",
-      "usesCount": "+373.8K استخدام",
-      "growthRate": "📈 نمو +618% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=تغليف%20طلبات%20متجر",
-      "category": "تجارة / متاجر"
-    },
-    {
-      "id": "c3299979",
-      "title": "صوتيات سرد القصص والغموض 📜",
-      "author": "History & Mystery",
-      "usesCount": "+279.0K استخدام",
-      "growthRate": "🔥 نمو +1043% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=قصص%20واقعية%20ترند",
-      "category": "بودكاست / قصص"
-    },
-    {
-      "id": "edb27b68",
-      "title": "إيقاع مستقبل الذكاء الاصطناعي 🤖",
-      "author": "AI Future",
-      "usesCount": "+702.0K استخدام",
-      "growthRate": "🔥 نمو +923% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=ذكاء%20اصطناعي%20ترند",
-      "category": "ذكاء اصطناعي / AI"
-    },
-    {
-      "id": "613ad69b",
-      "title": "موسيقى شروحات التطبيقات والتقنية 💻",
-      "author": "Tech Sounds AR",
-      "usesCount": "+885.2K استخدام",
-      "growthRate": "🔥 نمو +990% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=تقنية%20وتطبيقات%20ترند",
-      "category": "برمجة / تقنية"
-    },
-    {
-      "id": "c38303af",
-      "title": "موسيقى البودكاست العميقة والتحليلية 🎙️",
-      "author": "Deep Talks AR",
-      "usesCount": "+609.9K استخدام",
-      "growthRate": "🔥 نمو +1054% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=بودكاست%20عربي%20ترند",
-      "category": "بودكاست / شروحات"
-    },
-    {
-      "id": "423fbbd5",
-      "title": "موسيقى القصور والفلل الفاخرة 🏰",
-      "author": "Luxury Beats KW",
-      "usesCount": "+208.0K استخدام",
-      "growthRate": "🔥 نمو +1321% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=ديكورات%20فخمة%20ترند",
-      "category": "خليجي / عقارات"
-    },
-    {
-      "id": "c6b5fc18",
-      "title": "إيقاع العود الملكي الهادئ 🎸",
-      "author": "Oud Master KSA",
-      "usesCount": "+211.7K استخدام",
-      "growthRate": "📈 نمو +515% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=عود%20هادئ%20ترند",
-      "category": "خليجي / روقان"
-    },
-    {
-      "id": "0b09327f",
-      "title": "إيقاع التحديات السريعة المشتعلة 🔥",
-      "author": "Trend Maker",
-      "usesCount": "+617.9K استخدام",
-      "growthRate": "🔥 نمو +1314% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=تحديات%20تيك%20توك%20ترند",
-      "category": "تحديات / رياضة"
-    },
-    {
-      "id": "89f38ea7",
-      "title": "أجواء الكافيهات وروقان الصباح ☕",
-      "author": "Chill Arabia",
-      "usesCount": "+128.8K استخدام",
-      "growthRate": "🔥 نمو +1250% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=رواق%20صباحي%20ترند",
-      "category": "فلوق / روقان"
-    },
-    {
-      "id": "0cecc6f6",
-      "title": "إيقاع النجاح وإنجاز الأهداف 🏆",
-      "author": "Success Beats",
-      "usesCount": "+400.6K استخدام",
-      "growthRate": "🔥 نمو +912% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=نجاح%20وإنجاز%20ترند",
-      "category": "تحفيز / نجاح"
-    },
-    {
-      "id": "e3160fe8",
-      "title": "ترند بديل الخشب والرخام الحديث 🪵",
-      "author": "Interior Vibe",
-      "usesCount": "+469.7K استخدام",
-      "growthRate": "🔥 نمو +1390% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=بديل%20الخشب%20والرخام",
-      "category": "ديكور / خامات"
-    },
-    {
-      "id": "8c7c6648",
+      "id": "b1c470a3",
       "title": "موسيقى الطبخ ووصفات المطبخ 🍳",
-      "author": "Chef Beats AR",
-      "usesCount": "+69.4K استخدام",
-      "growthRate": "🔥 نمو +813% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "author": "Chef Beats",
+      "usesCount": "+48.7K استخدام",
+      "growthRate": "📈 نمو +492% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/09/06/audio_031c26b583.mp3",
       "officialUrl": "https://www.tiktok.com/search?q=طبخ%20ووصفات%20ترند",
       "category": "فلوق / طبخ"
     },
     {
-      "id": "91cef9b2",
+      "id": "5d4c0f81",
       "title": "موسيقى استعراض الرندر والـ 3D 🎨",
       "author": "Render Studio",
-      "usesCount": "+788.2K استخدام",
-      "growthRate": "🔥 نمو +1062% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "usesCount": "+221.1K استخدام",
+      "growthRate": "🔥 نمو +1196% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/11/24/audio_e2694b0d06.mp3",
       "officialUrl": "https://www.tiktok.com/search?q=تصميم%20داخلي%203D",
       "category": "تصميم / 3D"
     },
     {
-      "id": "a77fd402",
-      "title": "نغمة أسرار علم النفس وتطوير الذات 🧠",
-      "author": "Mind Talks",
-      "usesCount": "+457.2K استخدام",
-      "growthRate": "🔥 نمو +880% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=تطوير%20الذات%20ترند",
+      "id": "60894d8e",
+      "title": "ترند تغليف الطلبات الشحن (ASMR) 📦",
+      "author": "Packing ASMR",
+      "usesCount": "+415.1K استخدام",
+      "growthRate": "🔥 نمو +975% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/08/09/audio_823c92157a.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=تغليف%20طلبات%20متجر",
+      "category": "تجارة / متاجر"
+    },
+    {
+      "id": "a783fe8a",
+      "title": "ترند احتراف العاب الشوتر 🎯",
+      "author": "Aim Bot",
+      "usesCount": "+677.5K استخدام",
+      "growthRate": "🔥 نمو +1175% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/11/22/audio_60708f0384.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=العاب%20شوتر%20ترند",
+      "category": "العاب / شوتر"
+    },
+    {
+      "id": "94617e8b",
+      "title": "ترند تنسيق الحدائق الخارجية 🌿",
+      "author": "Garden Pro",
+      "usesCount": "+85.2K استخدام",
+      "growthRate": "🔥 نمو +896% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=تنسيق%20حدائق%20ترند",
+      "category": "ديكور / حدائق"
+    },
+    {
+      "id": "b42be11e",
+      "title": "ترند تسريحات الشعر والميكوفور 💇‍♀️",
+      "author": "Hair Style Pro",
+      "usesCount": "+767.9K استخدام",
+      "growthRate": "🔥 نمو +1055% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=تسريحات%20شعر%20ترند",
+      "category": "موضة / شعر"
+    },
+    {
+      "id": "1fc7a481",
+      "title": "موسيقى تقليد المشاهير الساخرة 🎭",
+      "author": "Imitator AR",
+      "usesCount": "+320.6K استخدام",
+      "growthRate": "📈 نمو +516% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/09/24/audio_031c26b583.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=تقليد%20مشاهير%20ترند",
+      "category": "كوميديا / ساخر"
+    },
+    {
+      "id": "61109c00",
+      "title": "إيقاع الرياكشنات والمواقف المحرجة 🤪",
+      "author": "Reaction Pro",
+      "usesCount": "+719.8K استخدام",
+      "growthRate": "🔥 نمو +1208% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/10/14/audio_60708f0384.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=رياكشن%20ترند",
+      "category": "كوميديا / رياكشن"
+    },
+    {
+      "id": "296c8755",
+      "title": "ترند فتح صناديق الأجهزة (Unboxing) 📦",
+      "author": "Tech Unbox",
+      "usesCount": "+703.7K استخدام",
+      "growthRate": "🔥 نمو +1193% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/12/03/audio_45d944e54f.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=مراجعة%20اجهزة%20ترند",
+      "category": "تقنية / مراجعات"
+    },
+    {
+      "id": "db7500bd",
+      "title": "إيقاع روتين المساء والعناية 🌙",
+      "author": "Night Routine",
+      "usesCount": "+76.5K استخدام",
+      "growthRate": "📈 نمو +629% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/08/09/audio_823c92157a.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=روتين%20المساء%20ترند",
+      "category": "فلوق / عناية"
+    },
+    {
+      "id": "b5a64906",
+      "title": "موسيقى التخلص من التوتر والقلق 🍃",
+      "author": "Anxiety Relief",
+      "usesCount": "+695.1K استخدام",
+      "growthRate": "📈 نمو +319% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/03/15/audio_c8b820a454.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=التخلص%20من%20التوتر",
+      "category": "تطوير / هدوء"
+    },
+    {
+      "id": "080f73ee",
+      "title": "إيقاع العود الملكي الهادئ 🎸",
+      "author": "Oud Master",
+      "usesCount": "+258.3K استخدام",
+      "growthRate": "🔥 نمو +1343% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/03/15/audio_c8b820a454.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=عود%20هادئ%20ترند",
+      "category": "خليجي / روقان"
+    },
+    {
+      "id": "013d940f",
+      "title": "موسيقى عروض الخصومات النارية 🔥",
+      "author": "Promo King",
+      "usesCount": "+201.4K استخدام",
+      "growthRate": "📈 نمو +439% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/10/14/audio_349d44e54f.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=عروض%20وخصومات%20ترند",
+      "category": "تسويق / عروض"
+    },
+    {
+      "id": "0b42be31",
+      "title": "ترند قصص نجاح رواد الأعمال 🚀",
+      "author": "Success Story",
+      "usesCount": "+703.6K استخدام",
+      "growthRate": "🔥 نمو +1052% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/11/24/audio_73130d2438.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=قصة%20نجاح%20بزنس",
+      "category": "تجارة / تحفيز"
+    },
+    {
+      "id": "8281fc9b",
+      "title": "إيقاع مستقبل الذكاء الاصطناعي 🤖",
+      "author": "AI Future",
+      "usesCount": "+334.6K استخدام",
+      "growthRate": "🔥 نمو +934% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/11/24/audio_e2694b0d06.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=ذكاء%20اصطناعي%20ترند",
+      "category": "تقنية / AI"
+    },
+    {
+      "id": "14289e52",
+      "title": "موسيقى ألعاب الرعب والغموض 🧟‍♂️",
+      "author": "Scary Plays",
+      "usesCount": "+192.2K استخدام",
+      "growthRate": "📈 نمو +516% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/05/17/audio_f50d182285.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=العاب%20رعب%20ترند",
+      "category": "العاب / رعب"
+    },
+    {
+      "id": "45055763",
+      "title": "أجواء الكافيهات وروقان الصباح ☕",
+      "author": "Chill Arabia",
+      "usesCount": "+125.9K استخدام",
+      "growthRate": "🔥 نمو +1199% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=رواق%20صباحي%20ترند",
+      "category": "فلوق / روقان"
+    },
+    {
+      "id": "af1f8fd0",
+      "title": "إيقاع الدريفت والتفحيط الحماسي 💨",
+      "author": "Drift King",
+      "usesCount": "+818.4K استخدام",
+      "growthRate": "🔥 نمو +1390% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/01/18/audio_d0a13f69d2.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=دريفت%20سيارات%20ترند",
+      "category": "سيارات / دريفت"
+    },
+    {
+      "id": "6c9318f2",
+      "title": "موسيقى خطابات ملهمة وعميقة 🗣️",
+      "author": "Deep Speech",
+      "usesCount": "+456.8K استخدام",
+      "growthRate": "📈 نمو +637% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/11/24/audio_73130d2438.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=خطاب%20ملهم%20ترند",
+      "category": "تحفيز / خطابات"
+    },
+    {
+      "id": "f777a78e",
+      "title": "موسيقى شروحات التطبيقات والتقنية 💻",
+      "author": "Tech Sounds",
+      "usesCount": "+732.7K استخدام",
+      "growthRate": "🔥 نمو +820% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/12/03/audio_45d944e54f.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=تقنية%20وتطبيقات%20ترند",
+      "category": "برمجة / تقنية"
+    },
+    {
+      "id": "dfd36838",
+      "title": "صوتيات حيل واسرار الايفون 📱",
+      "author": "Apple Hacks",
+      "usesCount": "+640.4K استخدام",
+      "growthRate": "📈 نمو +488% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/04/27/audio_87f98c4712.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=اسرار%20الايفون%20ترند",
+      "category": "تقنية / اسرار"
+    },
+    {
+      "id": "8c60aa9f",
+      "title": "إيقاع إضاءات النيون المخفية 💡",
+      "author": "Lighting Design",
+      "usesCount": "+726.3K استخدام",
+      "growthRate": "🔥 نمو +1340% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/12/03/audio_45d944e54f.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=إضاءة%20مخفية%20ديكور",
+      "category": "ديكور / إضاءة"
+    },
+    {
+      "id": "925477b1",
+      "title": "ترند الجيم وبناء العضلات 🏋️",
+      "author": "Gym Beast",
+      "usesCount": "+627.4K استخدام",
+      "growthRate": "🔥 نمو +1014% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/10/14/audio_349d44e54f.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=تمارين%20جيم%20ترند",
+      "category": "رياضة / جيم"
+    },
+    {
+      "id": "17daf8a4",
+      "title": "صوتيات غسيل السيارات (ديتيلنج) 🧽",
+      "author": "Car Wash ASMR",
+      "usesCount": "+623.0K استخدام",
+      "growthRate": "🔥 نمو +1312% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/08/09/audio_823c92157a.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=غسيل%20سيارات%20ترند",
+      "category": "سيارات / تنظيف"
+    },
+    {
+      "id": "ef8eba5c",
+      "title": "ترند الكشتات وأجواء الشتاء 🐪",
+      "author": "Desert Chill",
+      "usesCount": "+552.9K استخدام",
+      "growthRate": "📈 نمو +690% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=كشتة%20البر%20ترند",
+      "category": "خليجي / فلوق"
+    },
+    {
+      "id": "f4477e7e",
+      "title": "صوتيات يوميات الموظفين 💼",
+      "author": "Office Life",
+      "usesCount": "+536.5K استخدام",
+      "growthRate": "📈 نمو +443% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/03/15/audio_c8b820a454.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=يوميات%20موظف%20ترند",
+      "category": "فلوق / يوميات"
+    },
+    {
+      "id": "b64880dd",
+      "title": "صوتيات الاستيقاظ المبكر والإنتاجية 🌅",
+      "author": "Morning Power",
+      "usesCount": "+896.1K استخدام",
+      "growthRate": "🔥 نمو +1357% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/08/09/audio_823c92157a.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=استيقاظ%20مبكر%20ترند",
+      "category": "تحفيز / انتاجية"
+    },
+    {
+      "id": "c066377e",
+      "title": "ترند تمارين الكارديو والحرق 🏃‍♂️",
+      "author": "Cardio Burn",
+      "usesCount": "+960.5K استخدام",
+      "growthRate": "📈 نمو +591% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/09/06/audio_031c26b583.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=تمارين%20كارديو%20ترند",
+      "category": "رياضة / لياقة"
+    },
+    {
+      "id": "b2032e34",
+      "title": "ترند الضحك والميمز اليومي 😂",
+      "author": "Comedy AR",
+      "usesCount": "+542.1K استخدام",
+      "growthRate": "🔥 نمو +1066% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/09/24/audio_031c26b583.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=مضحك%20جدا%20ترند",
+      "category": "كوميديا / ميمز"
+    },
+    {
+      "id": "a4f20833",
+      "title": "ترند الاقتباسات العميقة والمؤثرة 🕯️",
+      "author": "Deep Quotes",
+      "usesCount": "+479.5K استخدام",
+      "growthRate": "📈 نمو +440% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/02/15/audio_d0a13f69d2.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=اقتباسات%20عميقة%20ترند",
+      "category": "تطوير / اقتباسات"
+    },
+    {
+      "id": "57685199",
+      "title": "إيقاع افتتاح المشاريع الجديدة ✂️",
+      "author": "Startup AR",
+      "usesCount": "+63.5K استخدام",
+      "growthRate": "🔥 نمو +930% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/10/14/audio_349d44e54f.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=افتتاح%20مشروع%20جديد",
+      "category": "تجارة / افتتاح"
+    },
+    {
+      "id": "c356875a",
+      "title": "صوتيات سرد القصص والغموض 📜",
+      "author": "History AR",
+      "usesCount": "+375.5K استخدام",
+      "growthRate": "🔥 نمو +931% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/11/24/audio_73130d2438.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=قصص%20واقعية%20ترند",
+      "category": "بودكاست / قصص"
+    },
+    {
+      "id": "aa77305f",
+      "title": "موسيقى تجميعات البي سي (PC Build) 🖥️",
+      "author": "PC Builder",
+      "usesCount": "+676.4K استخدام",
+      "growthRate": "📈 نمو +563% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/04/27/audio_87f98c4712.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=تجميعة%20بي%20سي%20ترند",
+      "category": "تقنية / هاردوير"
+    },
+    {
+      "id": "62f4e108",
+      "title": "موسيقى إعلانات التجارة والفلوس 💰",
+      "author": "Business Vibes",
+      "usesCount": "+559.1K استخدام",
+      "growthRate": "📈 نمو +444% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/10/14/audio_349d44e54f.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=تجارة%20إلكترونية%20ترند",
+      "category": "تجارة / بزنس"
+    },
+    {
+      "id": "7f480cb7",
+      "title": "ترند السفر ورحلات الطيران ✈️",
+      "author": "Travel Vibes",
+      "usesCount": "+775.3K استخدام",
+      "growthRate": "📈 نمو +596% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/03/15/audio_c8b820a454.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=سفر%20ومغامرات%20ترند",
+      "category": "فلوق / سفر"
+    },
+    {
+      "id": "51ef378a",
+      "title": "صوتيات تحديات فيفا وجلادتها ⚽",
+      "author": "Fifa King",
+      "usesCount": "+787.5K استخدام",
+      "growthRate": "📈 نمو +545% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/11/22/audio_60708f0384.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=تحديات%20فيفا%20ترند",
+      "category": "العاب / فيفا"
+    },
+    {
+      "id": "7683405c",
+      "title": "ترند أسرار علم النفس ولغة الجسد 👁️",
+      "author": "Mind Secrets",
+      "usesCount": "+447.4K استخدام",
+      "growthRate": "🔥 نمو +835% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/03/15/audio_c8b820a454.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=علم%20نفس%20ولغة%20جسد",
       "category": "بودكاست / تطوير"
     },
     {
-      "id": "ba807aa1",
-      "title": "ترند الضحك والميمز اليومي 😂",
-      "author": "Comedy Arabia",
-      "usesCount": "+644.9K استخدام",
-      "growthRate": "📈 نمو +445% اليوم",
-      "previewAudioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
-      "officialUrl": "https://www.tiktok.com/search?q=مضحك%20جدا%20ترند",
-      "category": "كوميديا / ميمز"
+      "id": "1de808ec",
+      "title": "ترند الموضة وتنسيق الأزياء 👗",
+      "author": "Fashion Walk",
+      "usesCount": "+944.6K استخدام",
+      "growthRate": "🔥 نمو +837% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/10/05/audio_1081541097.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=تنسيق%20ملابس%20ترند",
+      "category": "موضة / ستايل"
+    },
+    {
+      "id": "6d688be0",
+      "title": "موسيقى التحفيز وإشعال الطاقة ⚡",
+      "author": "Motivation Mena",
+      "usesCount": "+875.2K استخدام",
+      "growthRate": "🔥 نمو +1246% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/09/06/audio_031c26b583.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=تحفيز%20طاقة%20ترند",
+      "category": "تحفيز / تطوير"
+    },
+    {
+      "id": "c10a22f8",
+      "title": "موسيقى قضايا الرأي العام والترند ⚖️",
+      "author": "Public Eye",
+      "usesCount": "+695.8K استخدام",
+      "growthRate": "🔥 نمو +1473% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/05/17/audio_f50d182285.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=قضية%20راي%20عام%20ترند",
+      "category": "بودكاست / قضايا"
+    },
+    {
+      "id": "90d6b0ba",
+      "title": "صوتيات الراحة النفسية والهدوء 🧘",
+      "author": "Mind Peace",
+      "usesCount": "+452.7K استخدام",
+      "growthRate": "🔥 نمو +1201% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/11/25/audio_91b3cb0384.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=راحة%20نفسية%20ترند",
+      "category": "تطوير / راحة"
+    },
+    {
+      "id": "039e609b",
+      "title": "موسيقى الخيل العربي الأصيل 🐎",
+      "author": "Knight AR",
+      "usesCount": "+564.7K استخدام",
+      "growthRate": "🔥 نمو +1390% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/02/15/audio_d0a13f69d2.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=خيل%20عربي%20اصيل%20ترند",
+      "category": "خليجي / فروسية"
+    },
+    {
+      "id": "8774e8ec",
+      "title": "إيقاع النجاح وإنجاز الأهداف 🏆",
+      "author": "Goal Hunter",
+      "usesCount": "+72.9K استخدام",
+      "growthRate": "🔥 نمو +764% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/10/14/audio_349d44e54f.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=تحفيز%20نجاح%20ترند",
+      "category": "تحفيز / نجاح"
+    },
+    {
+      "id": "47d35271",
+      "title": "إيقاع كرة القدم والأهداف ⚽",
+      "author": "Goal Strike",
+      "usesCount": "+650.9K استخدام",
+      "growthRate": "📈 نمو +376% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/09/06/audio_031c26b583.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=مهارات%20كرة%20قدم%20ترند",
+      "category": "رياضة / كرة قدم"
+    },
+    {
+      "id": "5b0fcd38",
+      "title": "صوتيات رياضة البادل والتنس 🎾",
+      "author": "Padel Smash",
+      "usesCount": "+886.4K استخدام",
+      "growthRate": "🔥 نمو +902% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/01/18/audio_d0a13f69d2.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=رياضة%20بادل%20ترند",
+      "category": "رياضة / بادل"
+    },
+    {
+      "id": "8a52256f",
+      "title": "صوتيات المجالس والدواوين ☕",
+      "author": "Diwaniya Vibes",
+      "usesCount": "+865.2K استخدام",
+      "growthRate": "🔥 نمو +968% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=سوالف%20ديوانية%20ترند",
+      "category": "خليجي / مجلس"
+    },
+    {
+      "id": "5d675a37",
+      "title": "صوتيات اختيار بديل الرخام والخشب 🪨",
+      "author": "Wood & Marble",
+      "usesCount": "+683.1K استخدام",
+      "growthRate": "🔥 نمو +1393% اليوم",
+      "previewAudioUrl": "https://cdn.pixabay.com/download/audio/2021/12/03/audio_45d944e54f.mp3",
+      "officialUrl": "https://www.tiktok.com/search?q=بديل%20الرخام%20ديكور",
+      "category": "ديكور / خامات"
     }
   ],
-  "lastUpdated": "2026-08-22 14:48:38.501097"
+  "lastUpdated": "2026-08-22 19:28:37.245407"
 }

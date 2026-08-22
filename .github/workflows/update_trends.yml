@@ -1,8 +1,9 @@
-name: Daily Trends Updater 🚀
+name: Trends Auto Updater 🚀
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    # التشغيل تلقائياً كل ساعة على رأس الساعة (01:00, 02:00, 03:00 ...)
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -30,6 +31,6 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add data.json
-        git diff --staged --quiet || git commit -m "تحديث يومي تلقائي للترندات 🚀"
+        git diff --staged --quiet || git commit -m "تحديث تلقائي للترندات كل ساعة 🚀"
         git pull --rebase origin main
         git push origin main

@@ -1,76 +1,62 @@
 import json
 import random
 import uuid
+import urllib.request
+import urllib.parse
 from datetime import datetime
 
 # ==========================================
-# 1. مكتبات الأصوات الحقيقية لكل مزاج (Vibe)
+# 1. محرك سحب الأغاني العربية الحقيقية (The Apple Hack 🍏)
 # ==========================================
-
-lofi_sounds = [
-    "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3",
-    "https://cdn.pixabay.com/download/audio/2022/03/15/audio_c8b820a454.mp3",
-    "https://cdn.pixabay.com/download/audio/2021/08/09/audio_823c92157a.mp3"
-]
-
-upbeat_sounds = [
-    "https://cdn.pixabay.com/download/audio/2022/01/18/audio_d0a13f69d2.mp3",
-    "https://cdn.pixabay.com/download/audio/2021/10/14/audio_349d44e54f.mp3",
-    "https://cdn.pixabay.com/download/audio/2021/09/06/audio_031c26b583.mp3"
-]
-
-modern_sounds = [
-    "https://cdn.pixabay.com/download/audio/2021/11/24/audio_e2694b0d06.mp3",
-    "https://cdn.pixabay.com/download/audio/2022/04/27/audio_87f98c4712.mp3",
-    "https://cdn.pixabay.com/download/audio/2021/12/03/audio_45d944e54f.mp3"
-]
-
-dramatic_sounds = [
-    "https://cdn.pixabay.com/download/audio/2022/02/15/audio_d0a13f69d2.mp3",
-    "https://cdn.pixabay.com/download/audio/2021/11/24/audio_73130d2438.mp3",
-    "https://cdn.pixabay.com/download/audio/2022/05/17/audio_f50d182285.mp3"
-]
-
-comedy_sounds = [
-    "https://cdn.pixabay.com/download/audio/2022/03/24/audio_924b136894.mp3",
-    "https://cdn.pixabay.com/download/audio/2021/09/24/audio_031c26b583.mp3",
-    "https://cdn.pixabay.com/download/audio/2022/10/14/audio_60708f0384.mp3"
-]
-
-gaming_sounds = [
-    "https://cdn.pixabay.com/download/audio/2022/11/22/audio_60708f0384.mp3",
-    "https://cdn.pixabay.com/download/audio/2021/08/25/audio_823c92157a.mp3"
-]
-
-cars_phonk_sounds = [
-    "https://cdn.pixabay.com/download/audio/2022/10/25/audio_244a0344b5.mp3",
-    "https://cdn.pixabay.com/download/audio/2022/01/18/audio_d0a13f69d2.mp3"
-]
-
-fashion_sounds = [
-    "https://cdn.pixabay.com/download/audio/2021/10/05/audio_1081541097.mp3",
-    "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3"
-]
-
-sports_sounds = [
-    "https://cdn.pixabay.com/download/audio/2021/09/06/audio_031c26b583.mp3",
-    "https://cdn.pixabay.com/download/audio/2021/10/14/audio_349d44e54f.mp3"
-]
-
-spiritual_sounds = [
-    "https://cdn.pixabay.com/download/audio/2022/05/17/audio_f50d182285.mp3",
-    "https://cdn.pixabay.com/download/audio/2021/11/25/audio_91b3cb0384.mp3"
-]
+def get_real_arabic_audio(sound_type):
+    # قاموس الكلمات المفتاحية للبحث في الموسيقى العربية والخليجية
+    search_queries = {
+        "lofi": ["عزف بيانو هادئ", "موسيقى روقان", "عزف جيتار عربي"],
+        "dramatic": ["شيلات", "شيلة حزينة", "موسيقى ملحمية عربية"],
+        "upbeat": ["ريمكس عربي", "موسيقى حماسية", "دبكة"],
+        "modern": ["موسيقى الكترونية عربية", "دي جي عربي"],
+        "comedy": ["موسيقى مضحكة", "مؤثرات كوميدية"],
+        "gaming": ["شيلات حماسية", "ريمكس دقات"],
+        "cars": ["شيلات مسرعة", "ريمكس هجوله", "شيلة دريفت"],
+        "fashion": ["اغاني عربية ترند", "موسيقى فاشون"],
+        "sports": ["ريمكس رياضة", "شيلة حماسية"],
+        "spiritual": ["عزف عود", "عزف ناي", "موسيقى استرخاء عربية"]
+    }
+    
+    # اختيار كلمة بحث عشوائية تناسب مزاج الترند
+    keyword = random.choice(search_queries.get(sound_type, ["اغاني عربية"]))
+    
+    try:
+        # ترميز الكلمة العربية للبحث
+        query = urllib.parse.quote(keyword)
+        
+        # البحث في متجر أبل ميوزك (السعودية) لجلب ترندات خليجية وعربية حقيقية
+        url = f"https://itunes.apple.com/search?term={query}&limit=20&media=music&country=sa"
+        
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req, timeout=5) as response:
+            data = json.loads(response.read().decode())
+            results = data.get("results", [])
+            
+            # فلترة النتائج وسحب الروابط المباشرة (30 ثانية لكل أغنية)
+            previews = [res["previewUrl"] for res in results if "previewUrl" in res]
+            
+            if previews:
+                return random.choice(previews) # اختيار أغنية عشوائية من النتائج
+    except Exception as e:
+        print(f"Error fetching audio: {e}")
+        
+    # رابط احتياطي في حال فشل البحث
+    return "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3"
 
 # ==========================================
 # 2. الموسوعة الشاملة: 13 قسم وكل قسم 5 ترندات
 # ==========================================
-
 arabic_trends_pool = [
     # --- 1. قسم الفخامة والخليجي ---
     {"title": "شيلة العز والفخامة (ترند صاعد) 🦅", "author": "VIP Music", "category": "خليجي / فخامة", "sound_type": "dramatic", "query": "شيلة فخامة ترند"},
-    {"title": "إيقاع العود الملكي الهادئ 🎸", "author": "Oud Master", "category": "خليجي / روقان", "sound_type": "lofi", "query": "عود هادئ ترند"},
-    {"title": "صوتيات المجالس والدواوين ☕", "author": "Diwaniya Vibes", "category": "خليجي / مجلس", "sound_type": "lofi", "query": "سوالف ديوانية ترند"},
+    {"title": "إيقاع العود الملكي الهادئ 🎸", "author": "Oud Master", "category": "خليجي / روقان", "sound_type": "spiritual", "query": "عود هادئ ترند"},
+    {"title": "صوتيات المجالس والدواوين ☕", "author": "Diwaniya Vibes", "category": "خليجي / مجلس", "sound_type": "spiritual", "query": "سوالف ديوانية ترند"},
     {"title": "ترند الكشتات وأجواء الشتاء 🐪", "author": "Desert Chill", "category": "خليجي / فلوق", "sound_type": "lofi", "query": "كشتة البر ترند"},
     {"title": "موسيقى الخيل العربي الأصيل 🐎", "author": "Knight AR", "category": "خليجي / فروسية", "sound_type": "dramatic", "query": "خيل عربي اصيل ترند"},
 
@@ -159,21 +145,8 @@ arabic_trends_pool = [
     {"title": "صوتيات التأكيدات الإيجابية الصباحية 🌞", "author": "Morning Vibes", "category": "تطوير / ايجابية", "sound_type": "spiritual", "query": "طاقة ايجابية ترند"}
 ]
 
-def get_preview_url(sound_type):
-    if sound_type == "lofi": return random.choice(lofi_sounds)
-    elif sound_type == "upbeat": return random.choice(upbeat_sounds)
-    elif sound_type == "modern": return random.choice(modern_sounds)
-    elif sound_type == "dramatic": return random.choice(dramatic_sounds)
-    elif sound_type == "comedy": return random.choice(comedy_sounds)
-    elif sound_type == "gaming": return random.choice(gaming_sounds)
-    elif sound_type == "cars": return random.choice(cars_phonk_sounds)
-    elif sound_type == "fashion": return random.choice(fashion_sounds)
-    elif sound_type == "sports": return random.choice(sports_sounds)
-    elif sound_type == "spiritual": return random.choice(spiritual_sounds)
-    else: return random.choice(modern_sounds)
 
 def generate_daily_trends():
-    # سحب 50 ترند بشكل عشوائي من الـ 65 ترند المتاحة
     sample_size = min(50, len(arabic_trends_pool))
     selected_trends = random.sample(arabic_trends_pool, sample_size)
     
@@ -185,9 +158,13 @@ def generate_daily_trends():
         is_fire = growth_rate > 700
         fire_emoji = "🔥" if is_fire else "📈"
         
+        # إنشاء رابط بحث مباشر داخل تيك توك
         encoded_query = trend["query"].replace(" ", "%20")
         tiktok_search_url = f"https://www.tiktok.com/search?q={encoded_query}"
-        preview_url = get_preview_url(trend["sound_type"])
+        
+        # استدعاء السحر: جلب صوت خليجي/عربي حقيقي يتغير يومياً!
+        print(f"Fetching audio for: {trend['title']}...")
+        preview_url = get_real_arabic_audio(trend["sound_type"])
         
         sound_obj = {
             "id": str(uuid.uuid4())[:8],
@@ -206,7 +183,7 @@ def generate_daily_trends():
     with open('data.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
         
-    print(f"تم توليد {len(final_sounds)} ترند لـ 13 قسم بأصوات واقعية بنجاح! 🚀")
+    print(f"\nتم توليد {len(final_sounds)} ترند عربي حقيقي ومختلف 100% بنجاح! 🚀")
 
 if __name__ == "__main__":
     generate_daily_trends()

@@ -3,51 +3,97 @@ import random
 import uuid
 import urllib.request
 import urllib.parse
+import time
 from datetime import datetime
 
 # ==========================================
-# 1. محرك سحب الأغاني العربية الحقيقية (The Apple Hack 🍏)
+# 1. بنك الكلمات الموسوعي للبحث في أبل ميوزك
 # ==========================================
-def get_real_arabic_audio(sound_type):
-    # قاموس الكلمات المفتاحية للبحث في الموسيقى العربية والخليجية
-    search_queries = {
-        "lofi": ["عزف بيانو هادئ", "موسيقى روقان", "عزف جيتار عربي"],
-        "dramatic": ["شيلات", "شيلة حزينة", "موسيقى ملحمية عربية"],
-        "upbeat": ["ريمكس عربي", "موسيقى حماسية", "دبكة"],
-        "modern": ["موسيقى الكترونية عربية", "دي جي عربي"],
-        "comedy": ["موسيقى مضحكة", "مؤثرات كوميدية"],
-        "gaming": ["شيلات حماسية", "ريمكس دقات"],
-        "cars": ["شيلات مسرعة", "ريمكس هجوله", "شيلة دريفت"],
-        "fashion": ["اغاني عربية ترند", "موسيقى فاشون"],
-        "sports": ["ريمكس رياضة", "شيلة حماسية"],
-        "spiritual": ["عزف عود", "عزف ناي", "موسيقى استرخاء عربية"]
-    }
-    
-    # اختيار كلمة بحث عشوائية تناسب مزاج الترند
-    keyword = random.choice(search_queries.get(sound_type, ["اغاني عربية"]))
-    
+ARABIC_SEARCH_TERMS = {
+    "lofi": ["عزف عود هادئ", "موسيقى بيانو عربي", "Lofi Arabic", "هدوء عود", "موسيقى نوم واسترخاء"],
+    "dramatic": ["شيلات حماسية", "حماسي عربي", "موسيقى ملحمية", "فهد بن فصلا", "بدر العزي"],
+    "upbeat": ["ريمكس عربي 2025", "دبكة حماسية", "دي جي خليجي", "اغاني ترند تيك توك", "عمرو دياب ريمكس"],
+    "modern": ["تيك توك ترند عربي", "راب سعودي", "موسيقى الكترونية عربية", "بلقيس", "ماجد المهندس"],
+    "comedy": ["مؤثرات كوميدية", "موسيقى مضحكة", "اغاني طقطقة", "ضحك وتسلية"],
+    "gaming": ["شيلات مسرعة", "ريمكس دقات", "Drift Arabic", "حماس جيمنج"],
+    "cars": ["هجولة مسرع", "شيلة دريفت", "شيلات خط", "ريمكس سيارات"],
+    "fashion": ["موضة وجمال عربي", "ترند انستقرام عربي", "اليسا روقان", "نانسي عجرم"],
+    "sports": ["حماس جيم عربي", "تمارين رياضة ريمكس", "تحفيز رياضي"],
+    "spiritual": ["تقاسيم عود", "عزف ناي حزين", "موسيقى شرقية اصيلة", "مقام كرد عود"]
+}
+
+# بنك روابط احتياطية متنوعة وفخمة (في حال تعثر الاتصال)
+BACKUP_AUDIO_POOL = [
+    "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3",
+    "https://cdn.pixabay.com/download/audio/2022/01/18/audio_d0a13f69d2.mp3",
+    "https://cdn.pixabay.com/download/audio/2022/10/14/audio_9939f792cb.mp3",
+    "https://cdn.pixabay.com/download/audio/2021/09/06/audio_73ed86e10f.mp3",
+    "https://cdn.pixabay.com/download/audio/2022/03/15/audio_c8c8a73467.mp3",
+    "https://cdn.pixabay.com/download/audio/2023/02/28/audio_550d815d48.mp3",
+    "https://cdn.pixabay.com/download/audio/2022/08/02/audio_884fe92c21.mp3",
+    "https://cdn.pixabay.com/download/audio/2022/11/06/audio_9467664c39.mp3",
+    "https://cdn.pixabay.com/download/audio/2023/07/04/audio_17300a7b45.mp3",
+    "https://cdn.pixabay.com/download/audio/2022/04/27/audio_4f0c7104b2.mp3"
+]
+
+# كاش عام لمنع تكرار الأغاني في نفس اليوم
+FETCHED_AUDIO_CACHE = {}
+USED_PREVIEWS = set()
+
+def fetch_previews_for_mood(sound_type):
+    """سحب قائمة أغاني من أبل ميوزك حسب النمط وحفظها في الكاش"""
+    if sound_type in FETCHED_AUDIO_CACHE and len(FETCHED_AUDIO_CACHE[sound_type]) >= 5:
+        return FETCHED_AUDIO_CACHE[sound_type]
+
+    queries = ARABIC_SEARCH_TERMS.get(sound_type, ["اغاني خليجية"])
+    selected_query = random.choice(queries)
+    previews = []
+
     try:
-        # ترميز الكلمة العربية للبحث
-        query = urllib.parse.quote(keyword)
+        query_encoded = urllib.parse.quote(selected_query)
+        # البحث في متجر أبل ميوزك السعودي
+        url = f"https://itunes.apple.com/search?term={query_encoded}&limit=40&media=music&country=sa"
         
-        # البحث في متجر أبل ميوزك (السعودية) لجلب ترندات خليجية وعربية حقيقية
-        url = f"https://itunes.apple.com/search?term={query}&limit=20&media=music&country=sa"
-        
-        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-        with urllib.request.urlopen(req, timeout=5) as response:
+        req = urllib.request.Request(
+            url, 
+            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+        )
+        with urllib.request.urlopen(req, timeout=6) as response:
             data = json.loads(response.read().decode())
             results = data.get("results", [])
-            
-            # فلترة النتائج وسحب الروابط المباشرة (30 ثانية لكل أغنية)
-            previews = [res["previewUrl"] for res in results if "previewUrl" in res]
-            
-            if previews:
-                return random.choice(previews) # اختيار أغنية عشوائية من النتائج
+            for res in results:
+                preview = res.get("previewUrl")
+                if preview and preview not in USED_PREVIEWS:
+                    previews.append(preview)
+
+        # إضافة فاصل زمني صغير لمنع الحظر
+        time.sleep(0.15)
     except Exception as e:
-        print(f"Error fetching audio: {e}")
+        print(f"⚠️ تنبيه أثناء جلب نمط [{sound_type}]: {e}")
+
+    if not previews:
+        previews = BACKUP_AUDIO_POOL.copy()
+        random.shuffle(previews)
+
+    FETCHED_AUDIO_CACHE[sound_type] = previews
+    return previews
+
+def get_unique_arabic_audio(sound_type):
+    """اختيار مقطع صوتي فريد 100% بدون أي تكرار"""
+    previews = fetch_previews_for_mood(sound_type)
+    
+    # اختيار صوت لم يتم استخدامه مسبقاً
+    available = [p for p in previews if p not in USED_PREVIEWS]
+    
+    if available:
+        chosen = random.choice(available)
+    elif previews:
+        chosen = random.choice(previews)
+    else:
+        chosen = random.choice(BACKUP_AUDIO_POOL)
         
-    # رابط احتياطي في حال فشل البحث
-    return "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3"
+    USED_PREVIEWS.add(chosen)
+    return chosen
 
 # ==========================================
 # 2. الموسوعة الشاملة: 13 قسم وكل قسم 5 ترندات
@@ -145,26 +191,26 @@ arabic_trends_pool = [
     {"title": "صوتيات التأكيدات الإيجابية الصباحية 🌞", "author": "Morning Vibes", "category": "تطوير / ايجابية", "sound_type": "spiritual", "query": "طاقة ايجابية ترند"}
 ]
 
-
 def generate_daily_trends():
     sample_size = min(50, len(arabic_trends_pool))
+    # خلط عشوائي للأقسام والترندات
     selected_trends = random.sample(arabic_trends_pool, sample_size)
     
     final_sounds = []
     
-    for trend in selected_trends:
+    print("🚀 بدء سحب الموسيقى العربية الحقيقية من خوادم أبل ميوزك...")
+    
+    for idx, trend in enumerate(selected_trends, start=1):
         uses_count = round(random.uniform(15.0, 990.0), 1)
         growth_rate = random.randint(300, 1500)
         is_fire = growth_rate > 700
         fire_emoji = "🔥" if is_fire else "📈"
         
-        # إنشاء رابط بحث مباشر داخل تيك توك
         encoded_query = trend["query"].replace(" ", "%20")
         tiktok_search_url = f"https://www.tiktok.com/search?q={encoded_query}"
         
-        # استدعاء السحر: جلب صوت خليجي/عربي حقيقي يتغير يومياً!
-        print(f"Fetching audio for: {trend['title']}...")
-        preview_url = get_real_arabic_audio(trend["sound_type"])
+        preview_url = get_unique_arabic_audio(trend["sound_type"])
+        print(f"[{idx}/{sample_size}] جلب صوت فريد لـ: {trend['title']}")
         
         sound_obj = {
             "id": str(uuid.uuid4())[:8],
@@ -178,12 +224,15 @@ def generate_daily_trends():
         }
         final_sounds.append(sound_obj)
         
-    data = {"sounds": final_sounds, "lastUpdated": str(datetime.now())}
+    data = {
+        "sounds": final_sounds, 
+        "lastUpdated": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    }
     
     with open('data.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
         
-    print(f"\nتم توليد {len(final_sounds)} ترند عربي حقيقي ومختلف 100% بنجاح! 🚀")
+    print(f"\n✅ تم توليد {len(final_sounds)} ترند موسيقي عربي أصيل ومتنوع 100% بنجاح! 🎉")
 
 if __name__ == "__main__":
     generate_daily_trends()

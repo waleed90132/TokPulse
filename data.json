@@ -1,505 +1,505 @@
 {
-  "version": 2026082307,
-  "lastUpdated": "2026-08-23 07:32:21",
+  "version": 2026082308,
+  "lastUpdated": "2026-08-23 08:27:53",
   "sounds": [
     {
-      "id": "28777ff3",
-      "title": "صوت: Aatshan 🎵",
-      "author": "Majed Al Mohandis",
-      "usesCount": "+295.6K استخدام",
-      "growthRate": "🔥 نمو +811% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/30/29/f9/3029f9a5-9a36-b778-d327-07da2a2287f3/mzaf_16134339630475555034.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Majed%20Al%20Mohandis%20Aatshan",
-      "category": "خليجي / فخامة"
-    },
-    {
-      "id": "a727236d",
-      "title": "صوت: شوش ياراس الفخر 🎵",
-      "author": "Majed Al Raslany",
-      "usesCount": "+217.3K استخدام",
-      "growthRate": "🔥 نمو +1557% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/6f/3f/c96f3fc2-cfed-dda0-84da-db7bad1447f6/mzaf_8404819321973952204.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Majed%20Al%20Raslany%20%D8%B4%D9%88%D8%B4%20%D9%8A%D8%A7%D8%B1%D8%A7%D8%B3%20%D8%A7%D9%84%D9%81%D8%AE%D8%B1",
-      "category": "شيلات / حماسي"
-    },
-    {
-      "id": "2e0d0f2e",
-      "title": "صوت: Maleket Gamal El Kon 🎵",
-      "author": "AL SHAMI & Tamer Hosny",
-      "usesCount": "+761.9K استخدام",
-      "growthRate": "🔥 نمو +1307% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7e/cb/ed/7ecbedcb-5e7b-ffac-3dc0-03908f22841c/mzaf_7010666402357720131.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=AL%20SHAMI%20%26%20Tamer%20Hosny%20Maleket%20Gamal%20El%20Kon",
-      "category": "شامي / روقان وطرب"
-    },
-    {
-      "id": "c16b8676",
-      "title": "صوت: بكاء ناي وعود حزين 🎵",
-      "author": "Yasser Farouk",
-      "usesCount": "+302.6K استخدام",
-      "growthRate": "🔥 نمو +1384% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/15/f4/ed15f4ff-6314-1adb-9a62-f6f45e73a72b/mzaf_8102240541315319323.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Yasser%20Farouk%20%D8%A8%D9%83%D8%A7%D8%A1%20%D9%86%D8%A7%D9%8A%20%D9%88%D8%B9%D9%88%D8%AF%20%D8%AD%D8%B2%D9%8A%D9%86",
-      "category": "روقان / عود وناي"
-    },
-    {
-      "id": "d9961c43",
-      "title": "صوت: I'll Be Missing You (feat. Faith Evans, 112) 🎵",
-      "author": "Puff Daddy & Faith Evans",
-      "usesCount": "+649.5K استخدام",
-      "growthRate": "🔥 نمو +1360% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/41/a0/1d/41a01dad-1b51-8151-866a-50e239b01d49/mzaf_16034913608556950043.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Puff%20Daddy%20%26%20Faith%20Evans%20I%27ll%20Be%20Missing%20You%20%28feat.%20Faith%20Evans%2C%20112%29",
-      "category": "فلوق / كافيهات"
-    },
-    {
-      "id": "8b3d8eac",
-      "title": "صوت: Mahla Al Liqaa 🎵",
-      "author": "Majed Al Mohandis",
-      "usesCount": "+596.6K استخدام",
-      "growthRate": "🔥 نمو +1567% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/95/3c/87/953c8794-763b-5e83-b8b8-db90ba09fd04/mzaf_4648273277443318437.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Majed%20Al%20Mohandis%20Mahla%20Al%20Liqaa",
-      "category": "خليجي / فخامة"
-    },
-    {
-      "id": "0fb9c036",
-      "title": "صوت: Ana Baadak 🎵",
-      "author": "AL SHAMI",
-      "usesCount": "+637.9K استخدام",
-      "growthRate": "🔥 نمو +833% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c9/bc/76/c9bc7697-2bcc-285a-3712-95b03fed8a7a/mzaf_12013252720151791426.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=AL%20SHAMI%20Ana%20Baadak",
-      "category": "شامي / روقان وطرب"
-    },
-    {
-      "id": "416a7c34",
-      "title": "صوت: Haram 🎵",
-      "author": "Majed Al Mohandis",
-      "usesCount": "+679.5K استخدام",
-      "growthRate": "📈 نمو +621% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6f/dc/74/6fdc7436-3d6c-5073-b5d9-14d149e52815/mzaf_9941962938275299349.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Majed%20Al%20Mohandis%20Haram",
-      "category": "خليجي / فخامة"
-    },
-    {
-      "id": "1ab6439f",
-      "title": "صوت: Ya Bent El Eh 🎵",
-      "author": "Tamer Hosny",
-      "usesCount": "+769.3K استخدام",
-      "growthRate": "🔥 نمو +1335% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d7/31/4d/d7314d39-1f0e-5803-8e4f-19d8c9c9dac9/mzaf_13211210186164056771.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Tamer%20Hosny%20Ya%20Bent%20El%20Eh",
-      "category": "مصري / ترند وبوب"
-    },
-    {
-      "id": "8ef90188",
-      "title": "صوت: Sametek Sama 🎵",
-      "author": "AL SHAMI",
-      "usesCount": "+286.6K استخدام",
-      "growthRate": "🔥 نمو +1609% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/c2/3d/9f/c23d9f8e-f041-b103-4457-38c9c5396524/mzaf_13456450288732634919.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=AL%20SHAMI%20Sametek%20Sama",
-      "category": "شامي / روقان وطرب"
-    },
-    {
-      "id": "707370f0",
-      "title": "صوت: ناي الليل الحزين 🎵",
-      "author": "Yasser Farouk",
-      "usesCount": "+86.0K استخدام",
-      "growthRate": "📈 نمو +481% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/fa/81/c6fa81c9-c801-cc09-9e68-135972f672b1/mzaf_15802552690443153800.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Yasser%20Farouk%20%D9%86%D8%A7%D9%8A%20%D8%A7%D9%84%D9%84%D9%8A%D9%84%20%D8%A7%D9%84%D8%AD%D8%B2%D9%8A%D9%86",
-      "category": "روقان / عود وناي"
-    },
-    {
-      "id": "acde4624",
-      "title": "صوت: Don't Take the Girl 🎵",
-      "author": "Tim McGraw",
-      "usesCount": "+864.3K استخدام",
-      "growthRate": "🔥 نمو +929% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a7/4d/2a/a74d2aa4-e1f7-3e0c-676d-cf62f4461835/mzaf_4417527995690261236.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Tim%20McGraw%20Don%27t%20Take%20the%20Girl",
-      "category": "فلوق / كافيهات"
-    },
-    {
-      "id": "9e69170f",
-      "title": "صوت: Erga3ly 🎵",
-      "author": "Tamer Hosny",
-      "usesCount": "+114.4K استخدام",
-      "growthRate": "🔥 نمو +913% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/46/08/75/460875d4-ecc3-cea6-2f8b-98a183dd169b/mzaf_8363685032207255838.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Tamer%20Hosny%20Erga3ly",
-      "category": "مصري / ترند وبوب"
-    },
-    {
-      "id": "03f6c455",
-      "title": "صوت: Marmay 🎵",
-      "author": "Majed Al Mohandis",
-      "usesCount": "+80.6K استخدام",
-      "growthRate": "📈 نمو +516% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/55/7c/58557c3c-8be8-b730-4f8c-d0165fdc1e58/mzaf_8903751028263110702.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Majed%20Al%20Mohandis%20Marmay",
-      "category": "خليجي / فخامة"
-    },
-    {
-      "id": "d06ac426",
-      "title": "صوت: ناي حزن القلب 🎵",
-      "author": "Yasser Farouk",
-      "usesCount": "+734.4K استخدام",
-      "growthRate": "🔥 نمو +1339% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/02/ba/4d/02ba4d37-58ab-ffed-c595-3bc0b1108271/mzaf_17198745197037640632.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Yasser%20Farouk%20%D9%86%D8%A7%D9%8A%20%D8%AD%D8%B2%D9%86%20%D8%A7%D9%84%D9%82%D9%84%D8%A8",
-      "category": "روقان / عود وناي"
-    },
-    {
-      "id": "73b49083",
-      "title": "صوت: Saet Ramel 🎵",
-      "author": "Rahma Riad",
-      "usesCount": "+552.9K استخدام",
-      "growthRate": "🔥 نمو +1038% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/93/bf/3b/93bf3b1b-98c6-247c-bd0b-1d286d11806f/mzaf_13851309555545290041.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Rahma%20Riad%20Saet%20Ramel",
-      "category": "عراقي / طرب حزين"
-    },
-    {
-      "id": "2335428b",
-      "title": "صوت: Tenadeek 🎵",
-      "author": "Rashed Al Majid & Majed Al Mohandis",
-      "usesCount": "+84.0K استخدام",
-      "growthRate": "📈 نمو +426% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d7/9f/7c/d79f7cd3-e0fe-8082-71b9-9544e1a8c9fa/mzaf_9968440400317601303.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Rashed%20Al%20Majid%20%26%20Majed%20Al%20Mohandis%20Tenadeek",
-      "category": "خليجي / فخامة"
-    },
-    {
-      "id": "c92481bc",
-      "title": "صوت: Ya Ta3ebny 🎵",
-      "author": "Tamer Hosny",
-      "usesCount": "+857.5K استخدام",
-      "growthRate": "📈 نمو +582% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4e/7c/e4/4e7ce460-27b9-1e6e-3468-aa0bbd3dd4fa/mzaf_15678377650091854658.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Tamer%20Hosny%20Ya%20Ta3ebny",
-      "category": "مصري / ترند وبوب"
-    },
-    {
-      "id": "aade7fb5",
-      "title": "صوت: Wayli 🎵",
-      "author": "AL SHAMI",
-      "usesCount": "+552.1K استخدام",
-      "growthRate": "🔥 نمو +760% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/5a/44/b55a44b3-9383-eb84-cc3b-6961f2c4b8dc/mzaf_10514492977351657632.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=AL%20SHAMI%20Wayli",
-      "category": "شامي / روقان وطرب"
-    },
-    {
-      "id": "20752a0c",
-      "title": "صوت: Nadait Waynak 🎵",
-      "author": "Majed Al Mohandis",
-      "usesCount": "+421.8K استخدام",
-      "growthRate": "🔥 نمو +1132% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d1/b0/b9/d1b0b91b-e011-4b1e-ca24-edafc57abec8/mzaf_8723875420231562130.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Majed%20Al%20Mohandis%20Nadait%20Waynak",
-      "category": "خليجي / فخامة"
-    },
-    {
-      "id": "8f0e111c",
-      "title": "صوت: Jinak 🎵",
-      "author": "AL SHAMI",
-      "usesCount": "+642.2K استخدام",
-      "growthRate": "🔥 نمو +885% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cb/e9/bd/cbe9bdec-be76-a590-f8b3-ae7a5e119d05/mzaf_18345476633983838802.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=AL%20SHAMI%20Jinak",
-      "category": "شامي / روقان وطرب"
-    },
-    {
-      "id": "c381b591",
-      "title": "صوت: Yana Ya Mafish 🎵",
-      "author": "Tamer Hosny",
-      "usesCount": "+848.6K استخدام",
-      "growthRate": "🔥 نمو +1469% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/06/1a/56/061a5689-9390-bb95-4d88-1a927e832003/mzaf_2148433794653274817.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Tamer%20Hosny%20Yana%20Ya%20Mafish",
-      "category": "مصري / ترند وبوب"
-    },
-    {
-      "id": "aa26a34d",
-      "title": "صوت: Janant Galbi 🎵",
-      "author": "Majed Al Mohandis",
-      "usesCount": "+542.2K استخدام",
-      "growthRate": "📈 نمو +388% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/66/9f/9b/669f9b6e-612b-a19a-1a69-617938dd2ad6/mzaf_1654944039507812824.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Majed%20Al%20Mohandis%20Janant%20Galbi",
-      "category": "خليجي / فخامة"
-    },
-    {
-      "id": "cd7cf8a2",
-      "title": "صوت: Nour Einy 🎵",
-      "author": "Tamer Hosny",
-      "usesCount": "+774.1K استخدام",
-      "growthRate": "🔥 نمو +911% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/82/2d/0e/822d0eb4-15fa-9b4b-c461-a4c2e3a1b89a/mzaf_4731806379018240218.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Tamer%20Hosny%20Nour%20Einy",
-      "category": "مصري / ترند وبوب"
-    },
-    {
-      "id": "6094d947",
-      "title": "صوت: Rofouf Al Thekrayat 🎵",
-      "author": "Majed Al Mohandis",
-      "usesCount": "+795.4K استخدام",
-      "growthRate": "🔥 نمو +940% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b1/13/5e/b1135e3e-4579-af85-1d6f-e2106e4a6d73/mzaf_9591813190328931168.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Majed%20Al%20Mohandis%20Rofouf%20Al%20Thekrayat",
-      "category": "خليجي / فخامة"
-    },
-    {
-      "id": "cdaa09c7",
-      "title": "صوت: ياغايب 🎵",
-      "author": "Majed Al Raslany",
-      "usesCount": "+685.4K استخدام",
-      "growthRate": "🔥 نمو +1298% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4a/9b/66/4a9b66d0-4a5c-0daf-c9a0-d7e697521d0a/mzaf_4431124058339974338.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Majed%20Al%20Raslany%20%D9%8A%D8%A7%D8%BA%D8%A7%D9%8A%D8%A8",
-      "category": "شيلات / حماسي"
-    },
-    {
-      "id": "90bd99ac",
-      "title": "صوت: Le Yatmaen Galby 🎵",
-      "author": "Majed Al Mohandis",
-      "usesCount": "+72.4K استخدام",
-      "growthRate": "🔥 نمو +1555% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fa/d6/13/fad61385-7711-b86b-8987-97a8748af0a8/mzaf_9816220038004977481.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Majed%20Al%20Mohandis%20Le%20Yatmaen%20Galby",
-      "category": "خليجي / فخامة"
-    },
-    {
-      "id": "0ff89ab4",
-      "title": "صوت: ناي الفراق الحزين 🎵",
-      "author": "Yasser Farouk",
-      "usesCount": "+273.8K استخدام",
-      "growthRate": "📈 نمو +508% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3f/dd/14/3fdd14a0-95fe-f87c-e01e-3a651b23ea11/mzaf_4040581206727426170.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Yasser%20Farouk%20%D9%86%D8%A7%D9%8A%20%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D9%82%20%D8%A7%D9%84%D8%AD%D8%B2%D9%8A%D9%86",
-      "category": "روقان / عود وناي"
-    },
-    {
-      "id": "7590e666",
-      "title": "صوت: Nasseeny Leih 🎵",
-      "author": "Tamer Hosny",
-      "usesCount": "+564.6K استخدام",
-      "growthRate": "🔥 نمو +957% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d7/f1/6d/d7f16d74-1026-1298-818e-fc2879e0132f/mzaf_16541723755991602871.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Tamer%20Hosny%20Nasseeny%20Leih",
-      "category": "مصري / ترند وبوب"
-    },
-    {
-      "id": "a1d7440d",
+      "id": "9af9dc31",
       "title": "صوت: Mako Menni 🎵",
       "author": "Rahma Riad",
-      "usesCount": "+263.2K استخدام",
-      "growthRate": "🔥 نمو +851% اليوم",
+      "usesCount": "+881.2K استخدام",
+      "growthRate": "📈 نمو +697% اليوم",
       "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9c/04/99/9c04999e-6f58-079a-c901-a876ce92d60e/mzaf_10634898434396699710.plus.aac.p.m4a",
       "officialUrl": "https://www.tiktok.com/search?q=Rahma%20Riad%20Mako%20Menni",
       "category": "عراقي / طرب حزين"
     },
     {
-      "id": "10ab61a0",
-      "title": "صوت: خليل المزن 🎵",
-      "author": "Majed Al Raslany",
-      "usesCount": "+307.8K استخدام",
-      "growthRate": "🔥 نمو +1192% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/59/aa/1959aa8e-20bc-82cd-0261-b2f01b59fb6f/mzaf_17155662943508422504.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Majed%20Al%20Raslany%20%D8%AE%D9%84%D9%8A%D9%84%20%D8%A7%D9%84%D9%85%D8%B2%D9%86",
-      "category": "شيلات / حماسي"
-    },
-    {
-      "id": "62202626",
-      "title": "صوت: Weinak 🎵",
-      "author": "Rahma Riad",
-      "usesCount": "+613.8K استخدام",
-      "growthRate": "🔥 نمو +981% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bd/62/c1/bd62c18c-ce0f-25d1-483a-0f9b3d0f2c5e/mzaf_13314586054216903310.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Rahma%20Riad%20Weinak",
-      "category": "عراقي / طرب حزين"
-    },
-    {
-      "id": "43fc379a",
-      "title": "صوت: Money 🎵",
-      "author": "JID",
-      "usesCount": "+974.2K استخدام",
-      "growthRate": "📈 نمو +635% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/2f/1e/892f1ee5-717c-081b-1c5f-2b82ce456574/mzaf_10471489507304296441.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=JID%20Money",
-      "category": "فلوق / كافيهات"
-    },
-    {
-      "id": "ab84d1cc",
-      "title": "صوت: جنني حبه 🎵",
-      "author": "Majed Al Raslany",
-      "usesCount": "+703.6K استخدام",
-      "growthRate": "🔥 نمو +1356% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/9e/c0/da9ec0c5-99f1-16de-64f6-860f25365ce5/mzaf_16476435926308789780.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Majed%20Al%20Raslany%20%D8%AC%D9%86%D9%86%D9%8A%20%D8%AD%D8%A8%D9%87",
-      "category": "شيلات / حماسي"
-    },
-    {
-      "id": "7b14dd1c",
-      "title": "صوت: Aheb Jarhak 🎵",
-      "author": "Majed Al Mohandis",
-      "usesCount": "+953.3K استخدام",
-      "growthRate": "🔥 نمو +1534% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/72/da/66/72da66af-9d27-c80e-685a-e0d6896bc1cf/mzaf_3974619320830824841.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Majed%20Al%20Mohandis%20Aheb%20Jarhak",
-      "category": "خليجي / فخامة"
-    },
-    {
-      "id": "b8e9752a",
-      "title": "صوت: عزف ناى يبكى 🎵",
-      "author": "Yasser Farouk",
-      "usesCount": "+185.5K استخدام",
-      "growthRate": "🔥 نمو +1431% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d7/9d/2f/d79d2fdf-209e-6246-21cb-8b3232166c42/mzaf_17675556437702092304.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Yasser%20Farouk%20%D8%B9%D8%B2%D9%81%20%D9%86%D8%A7%D9%89%20%D9%8A%D8%A8%D9%83%D9%89",
-      "category": "روقان / عود وناي"
-    },
-    {
-      "id": "60724dc2",
-      "title": "صوت: Safha Jdida 🎵",
-      "author": "Rahma Riad",
-      "usesCount": "+96.0K استخدام",
-      "growthRate": "📈 نمو +547% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a3/af/d2/a3afd2f6-935e-d5fc-8a70-e7000c7252c6/mzaf_7846867393413126060.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Rahma%20Riad%20Safha%20Jdida",
-      "category": "عراقي / طرب حزين"
-    },
-    {
-      "id": "e26ee8b8",
-      "title": "صوت: Light the Sky [FIFA World Cup Qatar 2022 Soundtrack] (feat. RedOne, Manal & FIFA Sound) 🎵",
-      "author": "Nora Fatehi, Rahma Riad & Balqees",
-      "usesCount": "+925.6K استخدام",
-      "growthRate": "🔥 نمو +1634% اليوم",
-      "previewAudioUrl": "https://video-ssl.itunes.apple.com/itunes-assets/Video112/v4/06/20/1c/06201c04-c414-faf9-8a6c-af3d6f0827d8/mzvf_14176783798709210241.1920w.h264lc.U.p.m4v",
-      "officialUrl": "https://www.tiktok.com/search?q=Nora%20Fatehi%2C%20Rahma%20Riad%20%26%20Balqees%20Light%20the%20Sky%20%5BFIFA%20World%20Cup%20Qatar%202022%20Soundtrack%5D%20%28feat.%20RedOne%2C%20Manal%20%26%20FIFA%20Sound%29",
-      "category": "عراقي / طرب حزين"
-    },
-    {
-      "id": "aa2fb408",
-      "title": "صوت: Mayehremnish Mennak 🎵",
-      "author": "Tamer Hosny",
-      "usesCount": "+431.1K استخدام",
-      "growthRate": "🔥 نمو +792% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1e/91/fe/1e91fe50-ea18-e512-ef1c-b88e75442a95/mzaf_10778017383054199539.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Tamer%20Hosny%20Mayehremnish%20Mennak",
+      "id": "64f7bc39",
+      "title": "صوت: اتنين بمقام ملايين 🎵",
+      "author": "Essam Sasa",
+      "usesCount": "+184.3K استخدام",
+      "growthRate": "🔥 نمو +863% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/8b/1b/da/8b1bdac8-0a68-e4f6-2604-d0fa6a9c1835/mzaf_13313649552441294569.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Essam%20Sasa%20%D8%A7%D8%AA%D9%86%D9%8A%D9%86%20%D8%A8%D9%85%D9%82%D8%A7%D9%85%20%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86",
       "category": "مصري / ترند وبوب"
     },
     {
-      "id": "a3c7a3b1",
-      "title": "صوت: Bethoon 🎵",
-      "author": "AL SHAMI",
-      "usesCount": "+630.7K استخدام",
-      "growthRate": "🔥 نمو +1119% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/9d/6f/7e9d6f0a-4dbc-059a-6185-09c27ddbabda/mzaf_15586231392214995302.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=AL%20SHAMI%20Bethoon",
-      "category": "شامي / روقان وطرب"
+      "id": "17c3f65e",
+      "title": "صوت: Awedak 🎵",
+      "author": "Ayed",
+      "usesCount": "+695.8K استخدام",
+      "growthRate": "🔥 نمو +1026% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/58/b6/d6/58b6d685-9d1a-d1ee-7a1c-5dd98139d71e/mzaf_12711221439782406303.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Ayed%20Awedak",
+      "category": "خليجي / فخامة"
     },
     {
-      "id": "ea2a489a",
-      "title": "صوت: Kalam El Hob 🎵",
-      "author": "Rahma Riad",
-      "usesCount": "+49.1K استخدام",
-      "growthRate": "🔥 نمو +1620% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/37/39/e2/3739e2c2-ade9-29ff-8f8e-d90f8fe551cc/mzaf_9405517984819866007.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Rahma%20Riad%20Kalam%20El%20Hob",
-      "category": "عراقي / طرب حزين"
-    },
-    {
-      "id": "1ab46ceb",
-      "title": "صوت: Neon Moon 🎵",
-      "author": "Brooks & Dunn",
-      "usesCount": "+68.0K استخدام",
-      "growthRate": "📈 نمو +422% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ca/98/91/ca9891d8-7ccb-407e-d2cd-2c271434bb71/mzaf_3102574394878745809.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Brooks%20%26%20Dunn%20Neon%20Moon",
+      "id": "c0453e45",
+      "title": "صوت: فيروزيات صباحية مع فنجان قهوة 🎵",
+      "author": "فضاء الألحان",
+      "usesCount": "+151.4K استخدام",
+      "growthRate": "🔥 نمو +1560% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/70/b1/58/70b15857-8337-e7ad-6e71-6264793eb7ec/mzaf_16585445752358632228.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=%D9%81%D8%B6%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A3%D9%84%D8%AD%D8%A7%D9%86%20%D9%81%D9%8A%D8%B1%D9%88%D8%B2%D9%8A%D8%A7%D8%AA%20%D8%B5%D8%A8%D8%A7%D8%AD%D9%8A%D8%A9%20%D9%85%D8%B9%20%D9%81%D9%86%D8%AC%D8%A7%D9%86%20%D9%82%D9%87%D9%88%D8%A9",
       "category": "فلوق / كافيهات"
     },
     {
-      "id": "c8b3cf49",
-      "title": "صوت: Heera 🎵",
+      "id": "38c23747",
+      "title": "صوت: Marena Bikom Hamad 🎵",
       "author": "Rahma Riad",
-      "usesCount": "+633.7K استخدام",
-      "growthRate": "🔥 نمو +1516% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/42/f5/a6/42f5a61c-5b2f-53e0-9c67-937d894141b2/mzaf_15027009182099453584.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Rahma%20Riad%20Heera",
+      "usesCount": "+458.7K استخدام",
+      "growthRate": "🔥 نمو +901% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/0e/ae/14/0eae14b7-1895-ce7d-1ebe-eb95fa7b52fb/mzaf_10216937863917433601.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Rahma%20Riad%20Marena%20Bikom%20Hamad",
       "category": "عراقي / طرب حزين"
     },
     {
-      "id": "335b79e8",
+      "id": "78cda98b",
+      "title": "صوت: Makanak Khaly 🎵",
+      "author": "Mohammed Assaf",
+      "usesCount": "+365.0K استخدام",
+      "growthRate": "🔥 نمو +1564% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ae/db/57/aedb57af-28f9-99c9-ec2a-8dd7d7b7fc15/mzaf_18087746812455651086.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Mohammed%20Assaf%20Makanak%20Khaly",
+      "category": "شامي / روقان وطرب"
+    },
+    {
+      "id": "1ec49f77",
+      "title": "صوت: عمري انا ما بجلي كفاءه تملي 🎵",
+      "author": "Essam Sasa",
+      "usesCount": "+491.1K استخدام",
+      "growthRate": "🔥 نمو +786% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e6/04/2d/e6042ddf-e03e-d55e-c89b-d6b7ecb07b5e/mzaf_2314641509549413200.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Essam%20Sasa%20%D8%B9%D9%85%D8%B1%D9%8A%20%D8%A7%D9%86%D8%A7%20%D9%85%D8%A7%20%D8%A8%D8%AC%D9%84%D9%8A%20%D9%83%D9%81%D8%A7%D8%A1%D9%87%20%D8%AA%D9%85%D9%84%D9%8A",
+      "category": "مصري / ترند وبوب"
+    },
+    {
+      "id": "1ca30452",
+      "title": "صوت: كله اتساوس واتكالب ( انا عندي حاسه سابعه ) 🎵",
+      "author": "Essam Sasa",
+      "usesCount": "+812.0K استخدام",
+      "growthRate": "🔥 نمو +872% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/98/1b/3b/981b3bae-e5d9-8c85-3bd6-2f3d60e6728c/mzaf_10927807724029803476.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Essam%20Sasa%20%D9%83%D9%84%D9%87%20%D8%A7%D8%AA%D8%B3%D8%A7%D9%88%D8%B3%20%D9%88%D8%A7%D8%AA%D9%83%D8%A7%D9%84%D8%A8%20%28%20%D8%A7%D9%86%D8%A7%20%D8%B9%D9%86%D8%AF%D9%8A%20%D8%AD%D8%A7%D8%B3%D9%87%20%D8%B3%D8%A7%D8%A8%D8%B9%D9%87%20%29",
+      "category": "مصري / ترند وبوب"
+    },
+    {
+      "id": "ca59088d",
+      "title": "صوت: يا مسافر 🎵",
+      "author": "Badr Al Ezzy",
+      "usesCount": "+370.9K استخدام",
+      "growthRate": "🔥 نمو +1207% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/2c/33/eb2c3371-7b83-077a-1c25-2693b40cca52/mzaf_4847937965907374404.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Badr%20Al%20Ezzy%20%D9%8A%D8%A7%20%D9%85%D8%B3%D8%A7%D9%81%D8%B1",
+      "category": "شيلات / حماسي"
+    },
+    {
+      "id": "59c96876",
+      "title": "صوت: Sabeh Saadat 🎵",
+      "author": "Rahma Riad",
+      "usesCount": "+332.8K استخدام",
+      "growthRate": "📈 نمو +380% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/03/22/eb/0322ebb6-43aa-b27a-f6b2-2596a9b7e136/mzaf_14242594766106383158.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Rahma%20Riad%20Sabeh%20Saadat",
+      "category": "عراقي / طرب حزين"
+    },
+    {
+      "id": "7ddd7768",
+      "title": "صوت: Light The Sky (feat. FIFA Sound) [Music from the FIFA World Cup Qatar 2022 Official Soundtrack] 🎵",
+      "author": "Nora Fateh, Balqees, Rahma Riad & RedOne",
+      "usesCount": "+607.0K استخدام",
+      "growthRate": "🔥 نمو +1243% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/42/6c/ea/426ceac9-8290-9efd-c7cb-8d3e2d5337b8/mzaf_8103742270855776274.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Nora%20Fateh%2C%20Balqees%2C%20Rahma%20Riad%20%26%20RedOne%20Light%20The%20Sky%20%28feat.%20FIFA%20Sound%29%20%5BMusic%20from%20the%20FIFA%20World%20Cup%20Qatar%202022%20Official%20Soundtrack%5D",
+      "category": "عراقي / طرب حزين"
+    },
+    {
+      "id": "77754543",
+      "title": "صوت: كلها مستنظره عيزني ارجع ورا 🎵",
+      "author": "Essam Sasa",
+      "usesCount": "+118.2K استخدام",
+      "growthRate": "🔥 نمو +1546% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/34/ee/7a/34ee7ad3-1f06-5f84-03e8-53793428ac38/mzaf_2130542151032967351.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Essam%20Sasa%20%D9%83%D9%84%D9%87%D8%A7%20%D9%85%D8%B3%D8%AA%D9%86%D8%B8%D8%B1%D9%87%20%D8%B9%D9%8A%D8%B2%D9%86%D9%8A%20%D8%A7%D8%B1%D8%AC%D8%B9%20%D9%88%D8%B1%D8%A7",
+      "category": "مصري / ترند وبوب"
+    },
+    {
+      "id": "44ab11b3",
+      "title": "صوت: Tala'et Abeh 🎵",
+      "author": "Ayed",
+      "usesCount": "+529.1K استخدام",
+      "growthRate": "📈 نمو +741% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f5/ac/d1/f5acd160-e1fe-4dc7-7ef0-0d90c3bf415e/mzaf_1221788434688709334.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Ayed%20Tala%27et%20Abeh",
+      "category": "خليجي / فخامة"
+    },
+    {
+      "id": "2cc3d6b7",
+      "title": "صوت: Gleel Shof 🎵",
+      "author": "Ayed",
+      "usesCount": "+234.2K استخدام",
+      "growthRate": "📈 نمو +509% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/b0/3f/e5b03ff4-59f7-0cad-a931-df87517772e2/mzaf_15449885314926623267.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Ayed%20Gleel%20Shof",
+      "category": "خليجي / فخامة"
+    },
+    {
+      "id": "ba32ea1f",
+      "title": "صوت: Ya Halali Ya Mali 🎵",
+      "author": "Mohammed Assaf",
+      "usesCount": "+517.2K استخدام",
+      "growthRate": "🔥 نمو +1261% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4d/c2/53/4dc25344-87d5-7eac-82a0-8fa697d93037/mzaf_4237965852144335881.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Mohammed%20Assaf%20Ya%20Halali%20Ya%20Mali",
+      "category": "شامي / روقان وطرب"
+    },
+    {
+      "id": "c9d2ef92",
+      "title": "صوت: فيني مايكفيني 🎵",
+      "author": "Badr Al Ezzy",
+      "usesCount": "+387.3K استخدام",
+      "growthRate": "🔥 نمو +838% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ef/a1/08/efa10801-f397-2b65-89a4-519a4f9f0634/mzaf_1795214999198612229.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Badr%20Al%20Ezzy%20%D9%81%D9%8A%D9%86%D9%8A%20%D9%85%D8%A7%D9%8A%D9%83%D9%81%D9%8A%D9%86%D9%8A",
+      "category": "شيلات / حماسي"
+    },
+    {
+      "id": "a1f3648b",
+      "title": "صوت: Jinalek Ya Falsteen 🎵",
+      "author": "Mohammed Assaf",
+      "usesCount": "+722.6K استخدام",
+      "growthRate": "🔥 نمو +1135% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/98/f4/76/98f476bd-65be-a704-a43e-b07310cf882e/mzaf_5158705948890947146.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Mohammed%20Assaf%20Jinalek%20Ya%20Falsteen",
+      "category": "شامي / روقان وطرب"
+    },
+    {
+      "id": "26690ecd",
+      "title": "صوت: On Fire (feat. Essam Sasa) 🎵",
+      "author": "عنبــة",
+      "usesCount": "+925.7K استخدام",
+      "growthRate": "📈 نمو +470% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/51/36/8a/51368a09-078c-431a-abf4-ec9c717f0965/mzaf_127207687498393610.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=%D8%B9%D9%86%D8%A8%D9%80%D9%80%D8%A9%20On%20Fire%20%28feat.%20Essam%20Sasa%29",
+      "category": "مصري / ترند وبوب"
+    },
+    {
+      "id": "9b164f90",
+      "title": "صوت: صوتك أحبّه 🎵",
+      "author": "Badr Al Ezzy",
+      "usesCount": "+546.5K استخدام",
+      "growthRate": "📈 نمو +642% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fa/89/c5/fa89c5ee-8956-db37-5d53-83a4f4591c93/mzaf_14742354240419748135.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Badr%20Al%20Ezzy%20%D8%B5%D9%88%D8%AA%D9%83%20%D8%A3%D8%AD%D8%A8%D9%91%D9%87",
+      "category": "شيلات / حماسي"
+    },
+    {
+      "id": "2a619539",
+      "title": "صوت: الدنيا دوارة 🎵",
+      "author": "Badr Al Ezzy",
+      "usesCount": "+528.9K استخدام",
+      "growthRate": "📈 نمو +579% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/ec/20/e7ec205d-5b74-dc42-bb1d-c87d66ff00c2/mzaf_16518629754335863635.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Badr%20Al%20Ezzy%20%D8%A7%D9%84%D8%AF%D9%86%D9%8A%D8%A7%20%D8%AF%D9%88%D8%A7%D8%B1%D8%A9",
+      "category": "شيلات / حماسي"
+    },
+    {
+      "id": "7e9b580c",
+      "title": "صوت: Ya Queen W Labsa Tag 🎵",
+      "author": "Essam Sasa",
+      "usesCount": "+73.8K استخدام",
+      "growthRate": "📈 نمو +560% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/56/f2/94/56f294d9-5245-126d-7791-c341f091f234/mzaf_13049273443679698975.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Essam%20Sasa%20Ya%20Queen%20W%20Labsa%20Tag",
+      "category": "مصري / ترند وبوب"
+    },
+    {
+      "id": "fe58fcb3",
+      "title": "صوت: Light the Sky (Music from the Fifa World Cup Qatar 2022 Official Soundtrack) [feat. Manal & RedOne] 🎵",
+      "author": "Nora Fatehi, Rahma Riad & Balqees",
+      "usesCount": "+962.7K استخدام",
+      "growthRate": "🔥 نمو +841% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/83/83/33/83833345-5ef5-1a81-2129-73d25aeda6cc/mzaf_4389395589757731199.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Nora%20Fatehi%2C%20Rahma%20Riad%20%26%20Balqees%20Light%20the%20Sky%20%28Music%20from%20the%20Fifa%20World%20Cup%20Qatar%202022%20Official%20Soundtrack%29%20%5Bfeat.%20Manal%20%26%20RedOne%5D",
+      "category": "عراقي / طرب حزين"
+    },
+    {
+      "id": "f3c0250b",
+      "title": "صوت: معرفش اخاف من حد ( ادمرت صحتي) 🎵",
+      "author": "Essam Sasa",
+      "usesCount": "+380.3K استخدام",
+      "growthRate": "🔥 نمو +1418% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/76/aa/0d/76aa0dc3-240c-a7f5-59f8-7b4c1de778be/mzaf_5125537743971787952.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Essam%20Sasa%20%D9%85%D8%B9%D8%B1%D9%81%D8%B4%20%D8%A7%D8%AE%D8%A7%D9%81%20%D9%85%D9%86%20%D8%AD%D8%AF%20%28%20%D8%A7%D8%AF%D9%85%D8%B1%D8%AA%20%D8%B5%D8%AD%D8%AA%D9%8A%29",
+      "category": "مصري / ترند وبوب"
+    },
+    {
+      "id": "a3689695",
+      "title": "صوت: لو نرجع بالايام 🎵",
+      "author": "Badr Al Ezzy",
+      "usesCount": "+91.1K استخدام",
+      "growthRate": "📈 نمو +624% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/64/58/f064584a-0909-7ac1-5ffc-ac0a69acbad9/mzaf_1667444610246706919.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Badr%20Al%20Ezzy%20%D9%84%D9%88%20%D9%86%D8%B1%D8%AC%D8%B9%20%D8%A8%D8%A7%D9%84%D8%A7%D9%8A%D8%A7%D9%85",
+      "category": "شيلات / حماسي"
+    },
+    {
+      "id": "3e985512",
+      "title": "صوت: Mutar 🎵",
+      "author": "Rahma Riad",
+      "usesCount": "+606.5K استخدام",
+      "growthRate": "🔥 نمو +1001% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/e1/8a/91e18a1a-09e7-9699-d3d9-9ee86a473983/mzaf_8453962657453855310.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Rahma%20Riad%20Mutar",
+      "category": "عراقي / طرب حزين"
+    },
+    {
+      "id": "ee75eaea",
+      "title": "صوت: Baddek Enayah (feat. Gente de Zona) 🎵",
+      "author": "Mohammed Assaf",
+      "usesCount": "+902.3K استخدام",
+      "growthRate": "🔥 نمو +1354% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/03/8b/45/038b45a0-e347-8a2a-0a0e-981244e91f7e/mzaf_16700633070208244718.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Mohammed%20Assaf%20Baddek%20Enayah%20%28feat.%20Gente%20de%20Zona%29",
+      "category": "شامي / روقان وطرب"
+    },
+    {
+      "id": "ec51efaf",
+      "title": "صوت: وسط دموع وجراح 🎵",
+      "author": "Essam Sasa",
+      "usesCount": "+532.5K استخدام",
+      "growthRate": "🔥 نمو +1351% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d2/e7/65/d2e7658c-91be-b410-b6bc-80eb433a0901/mzaf_13806642660708317223.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Essam%20Sasa%20%D9%88%D8%B3%D8%B7%20%D8%AF%D9%85%D9%88%D8%B9%20%D9%88%D8%AC%D8%B1%D8%A7%D8%AD",
+      "category": "مصري / ترند وبوب"
+    },
+    {
+      "id": "01e054b5",
       "title": "صوت: Waed Menni 🎵",
       "author": "Rahma Riad",
-      "usesCount": "+252.5K استخدام",
-      "growthRate": "🔥 نمو +1492% اليوم",
+      "usesCount": "+545.9K استخدام",
+      "growthRate": "📈 نمو +413% اليوم",
       "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f1/e8/31/f1e8318c-3cea-189e-4368-9ddca4587d63/mzaf_11332408662523013469.plus.aac.p.m4a",
       "officialUrl": "https://www.tiktok.com/search?q=Rahma%20Riad%20Waed%20Menni",
       "category": "عراقي / طرب حزين"
     },
     {
-      "id": "b1ee49fa",
-      "title": "صوت: Aayesh La Oyounak 🎵",
-      "author": "AL SHAMI & Leen Hayek",
-      "usesCount": "+332.8K استخدام",
-      "growthRate": "🔥 نمو +860% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/6e/9c/856e9cb5-947f-b867-24dd-40d3945fb4f5/mzaf_4710304457367869721.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=AL%20SHAMI%20%26%20Leen%20Hayek%20Aayesh%20La%20Oyounak",
+      "id": "f2cbe59b",
+      "title": "صوت: محمد عساف - الدحية 🎵",
+      "author": "AWTAR STUDIO",
+      "usesCount": "+804.4K استخدام",
+      "growthRate": "📈 نمو +540% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/93/91/f9/9391f948-54dc-68e9-8c4b-9ce3e26ec162/mzaf_7933711581118916154.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=AWTAR%20STUDIO%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D8%B3%D8%A7%D9%81%20-%20%D8%A7%D9%84%D8%AF%D8%AD%D9%8A%D8%A9",
       "category": "شامي / روقان وطرب"
     },
     {
-      "id": "80c8e495",
-      "title": "صوت: September 🎵",
-      "author": "Earth, Wind & Fire",
-      "usesCount": "+602.4K استخدام",
-      "growthRate": "🔥 نمو +1440% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/93/c4/7793c4f4-a834-97f0-ec38-685e2d3d95d3/mzaf_4969122594945994096.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Earth%2C%20Wind%20%26%20Fire%20September",
-      "category": "فلوق / كافيهات"
-    },
-    {
-      "id": "40895f3a",
-      "title": "صوت: Heya Di 🎵",
-      "author": "Tamer Hosny",
-      "usesCount": "+660.7K استخدام",
-      "growthRate": "📈 نمو +422% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3e/0a/62/3e0a626e-2b9a-a392-e9cf-060ff9a1beed/mzaf_17199508063095804735.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Tamer%20Hosny%20Heya%20Di",
-      "category": "مصري / ترند وبوب"
-    },
-    {
-      "id": "54b93f03",
-      "title": "صوت: عزف ناي حزين 🎵",
-      "author": "Milan UAE",
-      "usesCount": "+948.1K استخدام",
-      "growthRate": "🔥 نمو +929% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/f1/e7/db/f1e7dbcd-9559-b1a4-fbe7-826e4f568a63/mzaf_9009144973421197950.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Milan%20UAE%20%D8%B9%D8%B2%D9%81%20%D9%86%D8%A7%D9%8A%20%D8%AD%D8%B2%D9%8A%D9%86",
-      "category": "روقان / عود وناي"
-    },
-    {
-      "id": "b2e52802",
-      "title": "صوت: هلا بالتوت والسكر- عود 🎵",
-      "author": "Majed Al Raslany",
-      "usesCount": "+495.3K استخدام",
-      "growthRate": "🔥 نمو +1056% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/12/42/7a/12427aac-6570-3ac1-0ae6-49ee25f22caf/mzaf_1404302600777919430.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Majed%20Al%20Raslany%20%D9%87%D9%84%D8%A7%20%D8%A8%D8%A7%D9%84%D8%AA%D9%88%D8%AA%20%D9%88%D8%A7%D9%84%D8%B3%D9%83%D8%B1-%20%D8%B9%D9%88%D8%AF",
+      "id": "c0112542",
+      "title": "صوت: بدر العزي - يالليل قرب 🎵",
+      "author": "اسامة الشرعبي OSAMA ALSHREBY",
+      "usesCount": "+937.0K استخدام",
+      "growthRate": "🔥 نمو +996% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/59/f8/6a59f8d3-0d84-ea50-6ab4-9611427c6d3e/mzaf_10899659014260633980.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=%D8%A7%D8%B3%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D8%A8%D9%8A%20OSAMA%20ALSHREBY%20%D8%A8%D8%AF%D8%B1%20%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%20-%20%D9%8A%D8%A7%D9%84%D9%84%D9%8A%D9%84%20%D9%82%D8%B1%D8%A8",
       "category": "شيلات / حماسي"
     },
     {
-      "id": "6ddf064c",
-      "title": "صوت: ضباط وايل 🎵",
-      "author": "Majed Al Raslany",
-      "usesCount": "+359.3K استخدام",
-      "growthRate": "🔥 نمو +900% اليوم",
-      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2c/79/09/2c7909e0-0529-4bc8-6218-f79c840e9942/mzaf_10801773841307887783.plus.aac.p.m4a",
-      "officialUrl": "https://www.tiktok.com/search?q=Majed%20Al%20Raslany%20%D8%B6%D8%A8%D8%A7%D8%B7%20%D9%88%D8%A7%D9%8A%D9%84",
+      "id": "ecd99d94",
+      "title": "صوت: Kanag Alnathar 🎵",
+      "author": "Abdulaziz Almukhalfi",
+      "usesCount": "+758.4K استخدام",
+      "growthRate": "🔥 نمو +1534% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/65/2b/86652bff-d8cd-657c-0151-7847c70edc77/mzaf_3640418328123290061.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Abdulaziz%20Almukhalfi%20Kanag%20Alnathar",
+      "category": "خليجي / فخامة"
+    },
+    {
+      "id": "5da5803c",
+      "title": "صوت: ياليت تسمعني 🎵",
+      "author": "Badr Al Ezzy",
+      "usesCount": "+812.4K استخدام",
+      "growthRate": "📈 نمو +643% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d4/ac/68/d4ac68a0-9c7d-1078-0105-600466024b32/mzaf_6266539466448468059.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Badr%20Al%20Ezzy%20%D9%8A%D8%A7%D9%84%D9%8A%D8%AA%20%D8%AA%D8%B3%D9%85%D8%B9%D9%86%D9%8A",
+      "category": "شيلات / حماسي"
+    },
+    {
+      "id": "b64c42b8",
+      "title": "صوت: Alyi El Kofiya 🎵",
+      "author": "Mohammed Assaf",
+      "usesCount": "+190.9K استخدام",
+      "growthRate": "📈 نمو +695% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6c/76/77/6c767758-efa7-7017-7640-13e34bfa34ce/mzaf_3305476580438546131.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Mohammed%20Assaf%20Alyi%20El%20Kofiya",
+      "category": "شامي / روقان وطرب"
+    },
+    {
+      "id": "77d3d5a4",
+      "title": "صوت: يا حبيبي يا مٌحمد 🎵",
+      "author": "Badr Al Ezzy",
+      "usesCount": "+471.8K استخدام",
+      "growthRate": "🔥 نمو +1477% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c8/7d/73/c87d732f-87f7-b1ab-19a5-460ba3727f25/mzaf_11913735662309602824.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Badr%20Al%20Ezzy%20%D9%8A%D8%A7%20%D8%AD%D8%A8%D9%8A%D8%A8%D9%8A%20%D9%8A%D8%A7%20%D9%85%D9%8C%D8%AD%D9%85%D8%AF",
+      "category": "شيلات / حماسي"
+    },
+    {
+      "id": "b284a59b",
+      "title": "صوت: Ma Fi Leil 🎵",
+      "author": "Nassif Zeytoun & Rahma Riad",
+      "usesCount": "+340.4K استخدام",
+      "growthRate": "🔥 نمو +1206% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4e/53/22/4e53222c-af71-3a8a-c528-d93703aaed9f/mzaf_14441580750564426268.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Nassif%20Zeytoun%20%26%20Rahma%20Riad%20Ma%20Fi%20Leil",
+      "category": "عراقي / طرب حزين"
+    },
+    {
+      "id": "98eb4fd7",
+      "title": "صوت: Allouma Allouma 🎵",
+      "author": "Mohammed Assaf",
+      "usesCount": "+156.4K استخدام",
+      "growthRate": "📈 نمو +541% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0e/10/ca/0e10cae5-5da6-9fc8-cacc-9292529e5c51/mzaf_13225451324553458354.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Mohammed%20Assaf%20Allouma%20Allouma",
+      "category": "شامي / روقان وطرب"
+    },
+    {
+      "id": "5df37df6",
+      "title": "صوت: تبغى عيوني 🎵",
+      "author": "Badr Al Ezzy",
+      "usesCount": "+45.2K استخدام",
+      "growthRate": "🔥 نمو +1544% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5a/9f/63/5a9f6344-8fbd-4bea-bf24-5f1be9fbec9e/mzaf_4082029630491217489.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Badr%20Al%20Ezzy%20%D8%AA%D8%A8%D8%BA%D9%89%20%D8%B9%D9%8A%D9%88%D9%86%D9%8A",
+      "category": "شيلات / حماسي"
+    },
+    {
+      "id": "99e0bb8f",
+      "title": "صوت: مسا مني ليكوا 🎵",
+      "author": "Essam Sasa",
+      "usesCount": "+297.3K استخدام",
+      "growthRate": "🔥 نمو +1384% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/da/38/a5/da38a54b-ca43-1a7b-d7e8-01ca2415cd79/mzaf_12572181034342846155.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Essam%20Sasa%20%D9%85%D8%B3%D8%A7%20%D9%85%D9%86%D9%8A%20%D9%84%D9%8A%D9%83%D9%88%D8%A7",
+      "category": "مصري / ترند وبوب"
+    },
+    {
+      "id": "be93fae8",
+      "title": "صوت: 3ammak We 3am 3ammak 🎵",
+      "author": "Mahmoud El Esseily & Essam Sasa",
+      "usesCount": "+977.3K استخدام",
+      "growthRate": "🔥 نمو +1338% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/03/a6/8903a6cc-0167-aa5d-677c-26afc6427ce2/mzaf_18438351236392162806.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Mahmoud%20El%20Esseily%20%26%20Essam%20Sasa%203ammak%20We%203am%203ammak",
+      "category": "مصري / ترند وبوب"
+    },
+    {
+      "id": "0b3d3f9a",
+      "title": "صوت: زفة عروس سبحان من كمل حلاها - غناء عايض يوسف جديد 🎵",
+      "author": "استوديو زفات Rafa Gulf",
+      "usesCount": "+614.3K استخدام",
+      "growthRate": "📈 نمو +536% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ad/51/c0/ad51c0e6-e8d0-4167-f2c4-f0f26bc2cb99/mzaf_13240548024621381317.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=%D8%A7%D8%B3%D8%AA%D9%88%D8%AF%D9%8A%D9%88%20%D8%B2%D9%81%D8%A7%D8%AA%20Rafa%20Gulf%20%D8%B2%D9%81%D8%A9%20%D8%B9%D8%B1%D9%88%D8%B3%20%D8%B3%D8%A8%D8%AD%D8%A7%D9%86%20%D9%85%D9%86%20%D9%83%D9%85%D9%84%20%D8%AD%D9%84%D8%A7%D9%87%D8%A7%20-%20%D8%BA%D9%86%D8%A7%D8%A1%20%D8%B9%D8%A7%D9%8A%D8%B6%20%D9%8A%D9%88%D8%B3%D9%81%20%D8%AC%D8%AF%D9%8A%D8%AF",
+      "category": "خليجي / فخامة"
+    },
+    {
+      "id": "a611b3cb",
+      "title": "صوت: صاحبى من غباؤه (feat. Essam Sasa) 🎵",
+      "author": "Mody Amin",
+      "usesCount": "+414.9K استخدام",
+      "growthRate": "🔥 نمو +1100% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fd/4e/4e/fd4e4eae-8b94-bced-1ed6-2b3d7bcd34f0/mzaf_10873902465738332965.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Mody%20Amin%20%D8%B5%D8%A7%D8%AD%D8%A8%D9%89%20%D9%85%D9%86%20%D8%BA%D8%A8%D8%A7%D8%A4%D9%87%20%28feat.%20Essam%20Sasa%29",
+      "category": "مصري / ترند وبوب"
+    },
+    {
+      "id": "dc6e8049",
+      "title": "صوت: ​دبكة سورية نار - حماسية 🎵",
+      "author": "Hemn Records",
+      "usesCount": "+361.1K استخدام",
+      "growthRate": "🔥 نمو +913% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ef/d7/ca/efd7ca9d-5799-6433-3cc8-0fc009969e44/mzaf_10743741275490885894.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Hemn%20Records%20%E2%80%8B%D8%AF%D8%A8%D9%83%D8%A9%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A9%20%D9%86%D8%A7%D8%B1%20-%20%D8%AD%D9%85%D8%A7%D8%B3%D9%8A%D8%A9",
+      "category": "دبكات / مجوز حماسي"
+    },
+    {
+      "id": "ae9b183b",
+      "title": "صوت: Ani Alaqwa 🎵",
+      "author": "Rahma Riad",
+      "usesCount": "+54.3K استخدام",
+      "growthRate": "🔥 نمو +1034% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c9/ab/dc/c9abdc01-32cc-619f-1813-f0302b946b27/mzaf_10285807493629896584.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Rahma%20Riad%20Ani%20Alaqwa",
+      "category": "عراقي / طرب حزين"
+    },
+    {
+      "id": "b54d5fb5",
+      "title": "صوت: Asaad Lel Goumar 🎵",
+      "author": "Rahma Riad",
+      "usesCount": "+325.1K استخدام",
+      "growthRate": "🔥 نمو +1331% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/8a/15/33/8a15332f-c326-ec82-9d60-36f553903cf6/mzaf_12565417586216936164.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Rahma%20Riad%20Asaad%20Lel%20Goumar",
+      "category": "عراقي / طرب حزين"
+    },
+    {
+      "id": "3cb58fdd",
+      "title": "صوت: Rdy 🎵",
+      "author": "Ayed",
+      "usesCount": "+729.1K استخدام",
+      "growthRate": "🔥 نمو +777% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/98/53/639853e0-bf13-e81f-13e6-90f5dd5d7ddd/mzaf_6299746304054616198.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Ayed%20Rdy",
+      "category": "خليجي / فخامة"
+    },
+    {
+      "id": "70100790",
+      "title": "صوت: حنينا 🎵",
+      "author": "Badr Al Ezzy",
+      "usesCount": "+95.8K استخدام",
+      "growthRate": "🔥 نمو +1372% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b8/72/bb/b872bb7f-531c-b3e8-a567-c20e91d80b0c/mzaf_6081764340373327439.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Badr%20Al%20Ezzy%20%D8%AD%D9%86%D9%8A%D9%86%D8%A7",
+      "category": "شيلات / حماسي"
+    },
+    {
+      "id": "6d187499",
+      "title": "صوت: Khlesna 🎵",
+      "author": "Rahma Riad",
+      "usesCount": "+224.5K استخدام",
+      "growthRate": "🔥 نمو +1443% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/06/fc/ed/06fced36-1fde-f90b-d741-9da7c7560568/mzaf_12286619330085772074.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Rahma%20Riad%20Khlesna",
+      "category": "عراقي / طرب حزين"
+    },
+    {
+      "id": "f70cbe67",
+      "title": "صوت: Besaraha 🎵",
+      "author": "Mohammed Assaf",
+      "usesCount": "+735.6K استخدام",
+      "growthRate": "📈 نمو +605% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ed/b1/27/edb1276b-5c0c-4fbd-a3c0-4f0692bcbff7/mzaf_6631716896970351874.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Mohammed%20Assaf%20Besaraha",
+      "category": "شامي / روقان وطرب"
+    },
+    {
+      "id": "9bb63448",
+      "title": "صوت: Falestini (feat. Mohammed Assaf) [Remix] 🎵",
+      "author": "DJ Hamida",
+      "usesCount": "+89.9K استخدام",
+      "growthRate": "🔥 نمو +1200% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/68/0b/88/680b8849-e0bb-42a1-8aca-895257b0a86a/mzaf_1981891442928525774.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=DJ%20Hamida%20Falestini%20%28feat.%20Mohammed%20Assaf%29%20%5BRemix%5D",
+      "category": "شامي / روقان وطرب"
+    },
+    {
+      "id": "23d866a8",
+      "title": "صوت: تعبان 🎵",
+      "author": "Badr Al Ezzy",
+      "usesCount": "+946.1K استخدام",
+      "growthRate": "🔥 نمو +1294% اليوم",
+      "previewAudioUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/ea/b9/8deab902-9262-548b-459b-5b69fc59f615/mzaf_14941847865957712031.plus.aac.p.m4a",
+      "officialUrl": "https://www.tiktok.com/search?q=Badr%20Al%20Ezzy%20%D8%AA%D8%B9%D8%A8%D8%A7%D9%86",
       "category": "شيلات / حماسي"
     }
   ],
@@ -508,84 +508,84 @@
       "countryName": "الكويت 🇰🇼",
       "tags": [
         {
-          "id": "37765efb",
-          "tag": "#مطاعم_الكويت",
-          "views": "+3.8B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+582%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D9%85%D8%B7%D8%A7%D8%B9%D9%85_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA"
-        },
-        {
-          "id": "13ffedd0",
-          "tag": "#كافيهات_الكويت",
-          "views": "+1.6B",
-          "status": "📈 صاعد",
-          "growthRate": "+644%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D9%83%D8%A7%D9%81%D9%8A%D9%87%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA"
-        },
-        {
-          "id": "6ba51a1e",
-          "tag": "#اعلانات_الكويت",
-          "views": "+2.4B",
-          "status": "🚀 نمو سريع",
-          "growthRate": "+928%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D8%B9%D9%84%D8%A7%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA"
-        },
-        {
-          "id": "e7d808f7",
-          "tag": "#سيارات_الكويت",
-          "views": "+1.3B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+289%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA"
-        },
-        {
-          "id": "3f7d5f66",
-          "tag": "#المطلاع",
-          "views": "+980M",
-          "status": "🚀 نمو سريع",
-          "growthRate": "+552%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D9%85%D8%B7%D9%84%D8%A7%D8%B9"
-        },
-        {
-          "id": "28094bf3",
-          "tag": "#ترند_الكويت",
-          "views": "+4.8B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+155%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%AA%D8%B1%D9%86%D8%AF_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA"
-        },
-        {
-          "id": "e7837d34",
+          "id": "7d77a7d3",
           "tag": "#ديوانية",
           "views": "+940M",
           "status": "📈 صاعد",
-          "growthRate": "+840%",
+          "growthRate": "+741%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%AF%D9%8A%D9%88%D8%A7%D9%86%D9%8A%D8%A9"
         },
         {
-          "id": "1397f447",
-          "tag": "#الكويت",
-          "views": "+9.4B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+454%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA"
+          "id": "59dcd6dc",
+          "tag": "#كافيهات_الكويت",
+          "views": "+1.6B",
+          "status": "📈 صاعد",
+          "growthRate": "+397%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D9%83%D8%A7%D9%81%D9%8A%D9%87%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA"
         },
         {
-          "id": "154ede78",
+          "id": "4e647236",
+          "tag": "#المطلاع",
+          "views": "+980M",
+          "status": "🚀 نمو سريع",
+          "growthRate": "+382%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D9%85%D8%B7%D9%84%D8%A7%D8%B9"
+        },
+        {
+          "id": "f6426a13",
+          "tag": "#اعلانات_الكويت",
+          "views": "+2.4B",
+          "status": "🚀 نمو سريع",
+          "growthRate": "+605%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D8%B9%D9%84%D8%A7%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA"
+        },
+        {
+          "id": "07142d96",
+          "tag": "#ترند_الكويت",
+          "views": "+4.8B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+177%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%AA%D8%B1%D9%86%D8%AF_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA"
+        },
+        {
+          "id": "05e7757b",
           "tag": "#قسائم_الكويت",
           "views": "+510M",
           "status": "📈 صاعد",
-          "growthRate": "+891%",
+          "growthRate": "+589%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D9%82%D8%B3%D8%A7%D8%A6%D9%85_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA"
         },
         {
-          "id": "4fdcccce",
+          "id": "5eb32e4d",
+          "tag": "#سيارات_الكويت",
+          "views": "+1.3B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+771%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA"
+        },
+        {
+          "id": "16bda210",
           "tag": "#ديكور_الكويت",
           "views": "+820M",
           "status": "📈 صاعد",
-          "growthRate": "+603%",
+          "growthRate": "+839%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%AF%D9%8A%D9%83%D9%88%D8%B1_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA"
+        },
+        {
+          "id": "95deb2a5",
+          "tag": "#مطاعم_الكويت",
+          "views": "+3.8B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+330%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D9%85%D8%B7%D8%A7%D8%B9%D9%85_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA"
+        },
+        {
+          "id": "1b902fd0",
+          "tag": "#الكويت",
+          "views": "+9.4B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+762%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA"
         }
       ]
     },
@@ -593,84 +593,84 @@
       "countryName": "السعودية 🇸🇦",
       "tags": [
         {
-          "id": "5918c706",
-          "tag": "#عقارات_الرياض",
-          "views": "+2.8B",
-          "status": "🚀 نمو سريع",
-          "growthRate": "+318%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6"
-        },
-        {
-          "id": "b6a1149e",
-          "tag": "#جدة",
-          "views": "+13.4B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+932%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%AC%D8%AF%D8%A9"
-        },
-        {
-          "id": "ab546fcc",
+          "id": "2860df34",
           "tag": "#شيلات_حماسية",
           "views": "+5.3B",
           "status": "🔥 متصدر الآن",
-          "growthRate": "+198%",
+          "growthRate": "+363%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%B4%D9%8A%D9%84%D8%A7%D8%AA_%D8%AD%D9%85%D8%A7%D8%B3%D9%8A%D8%A9"
         },
         {
-          "id": "23f9ad6a",
+          "id": "31bd577a",
           "tag": "#السعودية",
           "views": "+48.6B",
           "status": "🔥 متصدر الآن",
-          "growthRate": "+373%",
+          "growthRate": "+535%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9"
         },
         {
-          "id": "fae3f82a",
-          "tag": "#الشرقية",
-          "views": "+4.5B",
-          "status": "📈 صاعد",
-          "growthRate": "+646%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9"
-        },
-        {
-          "id": "838a8227",
-          "tag": "#بنات_الرياض",
-          "views": "+6.1B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+894%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A8%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6"
-        },
-        {
-          "id": "84b90155",
-          "tag": "#موسم_الرياض",
-          "views": "+7.4B",
-          "status": "🚀 نمو سريع",
-          "growthRate": "+729%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D9%85%D9%88%D8%B3%D9%85_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6"
-        },
-        {
-          "id": "38c2829c",
+          "id": "3d8d86d6",
           "tag": "#كشتات_السعودية",
           "views": "+3.5B",
           "status": "📈 صاعد",
-          "growthRate": "+293%",
+          "growthRate": "+180%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D9%83%D8%B4%D8%AA%D8%A7%D8%AA_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9"
         },
         {
-          "id": "48af3881",
+          "id": "e0844117",
           "tag": "#تجارة_الكترونية_السعودية",
           "views": "+2.2B",
           "status": "🚀 نمو سريع",
-          "growthRate": "+259%",
+          "growthRate": "+560%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9"
         },
         {
-          "id": "118504e1",
+          "id": "eea16db6",
+          "tag": "#عقارات_الرياض",
+          "views": "+2.8B",
+          "status": "🚀 نمو سريع",
+          "growthRate": "+575%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6"
+        },
+        {
+          "id": "3c5da01d",
+          "tag": "#موسم_الرياض",
+          "views": "+7.4B",
+          "status": "🚀 نمو سريع",
+          "growthRate": "+385%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D9%85%D9%88%D8%B3%D9%85_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6"
+        },
+        {
+          "id": "1dde64b7",
+          "tag": "#بنات_الرياض",
+          "views": "+6.1B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+916%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A8%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6"
+        },
+        {
+          "id": "b3be6da4",
           "tag": "#الرياض",
           "views": "+19.2B",
           "status": "🔥 متصدر الآن",
-          "growthRate": "+221%",
+          "growthRate": "+419%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6"
+        },
+        {
+          "id": "8fdaf7c2",
+          "tag": "#جدة",
+          "views": "+13.4B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+180%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%AC%D8%AF%D8%A9"
+        },
+        {
+          "id": "3388b5d2",
+          "tag": "#الشرقية",
+          "views": "+4.5B",
+          "status": "📈 صاعد",
+          "growthRate": "+628%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9"
         }
       ]
     },
@@ -678,84 +678,84 @@
       "countryName": "الأردن 🇯🇴",
       "tags": [
         {
-          "id": "adeb2e41",
-          "tag": "#الجامعة_الاردنية",
-          "views": "+980M",
-          "status": "🚀 نمو سريع",
-          "growthRate": "+506%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86%D9%8A%D8%A9"
-        },
-        {
-          "id": "f5f7d43e",
-          "tag": "#ترند_الاردن",
-          "views": "+3.6B",
-          "status": "🚀 نمو سريع",
-          "growthRate": "+761%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%AA%D8%B1%D9%86%D8%AF_%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86"
-        },
-        {
-          "id": "29705f18",
-          "tag": "#سيارات_الاردن",
-          "views": "+1.5B",
-          "status": "📈 صاعد",
-          "growthRate": "+689%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86"
-        },
-        {
-          "id": "de3285be",
-          "tag": "#العقبة",
-          "views": "+1.1B",
-          "status": "📈 صاعد",
-          "growthRate": "+737%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%B9%D9%82%D8%A8%D8%A9"
-        },
-        {
-          "id": "3ac6e596",
-          "tag": "#دبكة_اردنية",
-          "views": "+2.7B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+438%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%AF%D8%A8%D9%83%D8%A9_%D8%A7%D8%B1%D8%AF%D9%86%D9%8A%D8%A9"
-        },
-        {
-          "id": "23e4a1f8",
+          "id": "19ee524a",
           "tag": "#مطاعم_الاردن",
           "views": "+2.1B",
           "status": "🔥 متصدر الآن",
-          "growthRate": "+937%",
+          "growthRate": "+609%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D9%85%D8%B7%D8%A7%D8%B9%D9%85_%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86"
         },
         {
-          "id": "c6be3aec",
-          "tag": "#اربد",
-          "views": "+1.9B",
+          "id": "f749ab0d",
+          "tag": "#سيارات_الاردن",
+          "views": "+1.5B",
           "status": "📈 صاعد",
-          "growthRate": "+263%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D8%B1%D8%A8%D8%AF"
+          "growthRate": "+632%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86"
         },
         {
-          "id": "ac7ecde5",
-          "tag": "#الاردن",
-          "views": "+14.2B",
+          "id": "4d55da45",
+          "tag": "#العقبة",
+          "views": "+1.1B",
+          "status": "📈 صاعد",
+          "growthRate": "+791%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%B9%D9%82%D8%A8%D8%A9"
+        },
+        {
+          "id": "cd23eaf8",
+          "tag": "#دبكة_اردنية",
+          "views": "+2.7B",
           "status": "🔥 متصدر الآن",
-          "growthRate": "+457%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86"
+          "growthRate": "+265%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%AF%D8%A8%D9%83%D8%A9_%D8%A7%D8%B1%D8%AF%D9%86%D9%8A%D8%A9"
         },
         {
-          "id": "ce23ccef",
+          "id": "7cef2a2f",
           "tag": "#عمان_الاردن",
           "views": "+7.8B",
           "status": "🔥 متصدر الآن",
-          "growthRate": "+432%",
+          "growthRate": "+280%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%B9%D9%85%D8%A7%D9%86_%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86"
         },
         {
-          "id": "bdb8b5a7",
+          "id": "3c20640d",
+          "tag": "#الاردن",
+          "views": "+14.2B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+530%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86"
+        },
+        {
+          "id": "f9237c9e",
           "tag": "#كافيهات_عمان",
           "views": "+1.2B",
           "status": "📈 صاعد",
-          "growthRate": "+561%",
+          "growthRate": "+695%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D9%83%D8%A7%D9%81%D9%8A%D9%87%D8%A7%D8%AA_%D8%B9%D9%85%D8%A7%D9%86"
+        },
+        {
+          "id": "7923c216",
+          "tag": "#ترند_الاردن",
+          "views": "+3.6B",
+          "status": "🚀 نمو سريع",
+          "growthRate": "+658%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%AA%D8%B1%D9%86%D8%AF_%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86"
+        },
+        {
+          "id": "f2e69ebf",
+          "tag": "#الجامعة_الاردنية",
+          "views": "+980M",
+          "status": "🚀 نمو سريع",
+          "growthRate": "+299%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86%D9%8A%D8%A9"
+        },
+        {
+          "id": "3ecb77db",
+          "tag": "#اربد",
+          "views": "+1.9B",
+          "status": "📈 صاعد",
+          "growthRate": "+546%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D8%B1%D8%A8%D8%AF"
         }
       ]
     },
@@ -763,68 +763,68 @@
       "countryName": "فلسطين 🇵🇸",
       "tags": [
         {
-          "id": "ba7f5abb",
-          "tag": "#القدس",
-          "views": "+12.6B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+839%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D9%82%D8%AF%D8%B3"
-        },
-        {
-          "id": "2e6c5715",
-          "tag": "#رام_الله",
-          "views": "+2.4B",
-          "status": "📈 صاعد",
-          "growthRate": "+254%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%B1%D8%A7%D9%85_%D8%A7%D9%84%D9%84%D9%87"
-        },
-        {
-          "id": "5a225efd",
-          "tag": "#فلسطين",
-          "views": "+28.4B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+300%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86"
-        },
-        {
-          "id": "74039ce4",
+          "id": "aafc6698",
           "tag": "#غزة",
           "views": "+19.8B",
           "status": "🔥 متصدر الآن",
-          "growthRate": "+856%",
+          "growthRate": "+640%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%BA%D8%B2%D8%A9"
         },
         {
-          "id": "846aebca",
+          "id": "4392b79b",
           "tag": "#نابلس",
           "views": "+1.8B",
           "status": "📈 صاعد",
-          "growthRate": "+884%",
+          "growthRate": "+781%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D9%86%D8%A7%D8%A8%D9%84%D8%B3"
         },
         {
-          "id": "1f017c27",
+          "id": "74a7520c",
           "tag": "#ترند_فلسطين",
           "views": "+3.2B",
           "status": "🚀 نمو سريع",
-          "growthRate": "+655%",
+          "growthRate": "+286%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%AA%D8%B1%D9%86%D8%AF_%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86"
         },
         {
-          "id": "f8f80728",
+          "id": "20903f59",
           "tag": "#الخليل",
           "views": "+1.6B",
           "status": "📈 صاعد",
-          "growthRate": "+373%",
+          "growthRate": "+389%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%84"
         },
         {
-          "id": "b288bf61",
+          "id": "04f50760",
+          "tag": "#رام_الله",
+          "views": "+2.4B",
+          "status": "📈 صاعد",
+          "growthRate": "+452%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%B1%D8%A7%D9%85_%D8%A7%D9%84%D9%84%D9%87"
+        },
+        {
+          "id": "cf7fe537",
           "tag": "#دبكة_فلسطينية",
           "views": "+3.9B",
           "status": "🔥 متصدر الآن",
-          "growthRate": "+616%",
+          "growthRate": "+885%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%AF%D8%A8%D9%83%D8%A9_%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9"
+        },
+        {
+          "id": "72704b2e",
+          "tag": "#فلسطين",
+          "views": "+28.4B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+470%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86"
+        },
+        {
+          "id": "8b6b2506",
+          "tag": "#القدس",
+          "views": "+12.6B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+431%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D9%82%D8%AF%D8%B3"
         }
       ]
     },
@@ -832,68 +832,68 @@
       "countryName": "العراق 🇮🇶",
       "tags": [
         {
-          "id": "3dc2fd1c",
-          "tag": "#اربيل",
-          "views": "+4.1B",
-          "status": "📈 صاعد",
-          "growthRate": "+611%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D8%B1%D8%A8%D9%8A%D9%84"
-        },
-        {
-          "id": "85193359",
-          "tag": "#بغداد",
-          "views": "+16.2B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+376%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF"
-        },
-        {
-          "id": "2befb1e6",
-          "tag": "#شعر_شعبي_عراقي",
-          "views": "+6.7B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+946%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%B4%D8%B9%D8%B1_%D8%B4%D8%B9%D8%A8%D9%8A_%D8%B9%D8%B1%D8%A7%D9%82%D9%8A"
-        },
-        {
-          "id": "aab669ca",
-          "tag": "#البصرة",
-          "views": "+5.9B",
-          "status": "📈 صاعد",
-          "growthRate": "+275%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9"
-        },
-        {
-          "id": "a6738932",
+          "id": "a2886d77",
           "tag": "#العراق",
           "views": "+34.8B",
           "status": "🔥 متصدر الآن",
-          "growthRate": "+720%",
+          "growthRate": "+173%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82"
         },
         {
-          "id": "df662b99",
-          "tag": "#العراق_السعودية",
-          "views": "+3.5B",
+          "id": "2944ebf3",
+          "tag": "#اربيل",
+          "views": "+4.1B",
           "status": "📈 صاعد",
-          "growthRate": "+255%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9"
+          "growthRate": "+630%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D8%B1%D8%A8%D9%8A%D9%84"
         },
         {
-          "id": "f6137b53",
+          "id": "6e45f040",
+          "tag": "#البصرة",
+          "views": "+5.9B",
+          "status": "📈 صاعد",
+          "growthRate": "+262%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D8%A9"
+        },
+        {
+          "id": "fa2dd1be",
+          "tag": "#شعر_شعبي_عراقي",
+          "views": "+6.7B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+733%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%B4%D8%B9%D8%B1_%D8%B4%D8%B9%D8%A8%D9%8A_%D8%B9%D8%B1%D8%A7%D9%82%D9%8A"
+        },
+        {
+          "id": "7653315b",
           "tag": "#مطاعم_بغداد",
           "views": "+2.8B",
           "status": "🚀 نمو سريع",
-          "growthRate": "+874%",
+          "growthRate": "+345%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D9%85%D8%B7%D8%A7%D8%B9%D9%85_%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF"
         },
         {
-          "id": "9d7875fe",
+          "id": "88ac8ed1",
           "tag": "#ترند_العراق",
           "views": "+8.4B",
           "status": "🔥 متصدر الآن",
-          "growthRate": "+599%",
+          "growthRate": "+423%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%AA%D8%B1%D9%86%D8%AF_%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82"
+        },
+        {
+          "id": "a63c9734",
+          "tag": "#بغداد",
+          "views": "+16.2B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+497%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF"
+        },
+        {
+          "id": "7ce1c22a",
+          "tag": "#العراق_السعودية",
+          "views": "+3.5B",
+          "status": "📈 صاعد",
+          "growthRate": "+841%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9"
         }
       ]
     },
@@ -901,68 +901,68 @@
       "countryName": "سوريا 🇸🇾",
       "tags": [
         {
-          "id": "08f05775",
-          "tag": "#الشام",
-          "views": "+6.9B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+750%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%B4%D8%A7%D9%85"
-        },
-        {
-          "id": "03461945",
-          "tag": "#حلب",
-          "views": "+5.2B",
-          "status": "📈 صاعد",
-          "growthRate": "+150%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%AD%D9%84%D8%A8"
-        },
-        {
-          "id": "8a146732",
-          "tag": "#اللاذقية",
-          "views": "+1.7B",
-          "status": "📈 صاعد",
-          "growthRate": "+713%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D9%84%D8%A7%D8%B0%D9%82%D9%8A%D8%A9"
-        },
-        {
-          "id": "ae908b8e",
-          "tag": "#دبكة_سورية",
-          "views": "+3.4B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+912%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%AF%D8%A8%D9%83%D8%A9_%D8%B3%D9%88%D8%B1%D9%8A%D8%A9"
-        },
-        {
-          "id": "25517bf9",
+          "id": "0583eb24",
           "tag": "#ترند_سوريا",
           "views": "+3.8B",
           "status": "🚀 نمو سريع",
-          "growthRate": "+681%",
+          "growthRate": "+673%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%AA%D8%B1%D9%86%D8%AF_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7"
         },
         {
-          "id": "14a2e7d2",
+          "id": "9cb471d2",
+          "tag": "#اللاذقية",
+          "views": "+1.7B",
+          "status": "📈 صاعد",
+          "growthRate": "+399%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D9%84%D8%A7%D8%B0%D9%82%D9%8A%D8%A9"
+        },
+        {
+          "id": "80b34193",
           "tag": "#سوريا",
           "views": "+21.6B",
           "status": "🔥 متصدر الآن",
-          "growthRate": "+405%",
+          "growthRate": "+737%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%B3%D9%88%D8%B1%D9%8A%D8%A7"
         },
         {
-          "id": "616eb337",
+          "id": "fe8feaa9",
+          "tag": "#دبكة_سورية",
+          "views": "+3.4B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+241%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%AF%D8%A8%D9%83%D8%A9_%D8%B3%D9%88%D8%B1%D9%8A%D8%A9"
+        },
+        {
+          "id": "e68f993c",
+          "tag": "#الشام",
+          "views": "+6.9B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+461%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%B4%D8%A7%D9%85"
+        },
+        {
+          "id": "14721578",
           "tag": "#اكلات_شامية",
           "views": "+2.9B",
           "status": "📈 صاعد",
-          "growthRate": "+737%",
+          "growthRate": "+777%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%83%D9%84%D8%A7%D8%AA_%D8%B4%D8%A7%D9%85%D9%8A%D8%A9"
         },
         {
-          "id": "738f5720",
+          "id": "44c5754b",
           "tag": "#دمشق",
           "views": "+8.4B",
           "status": "🔥 متصدر الآن",
-          "growthRate": "+240%",
+          "growthRate": "+378%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%AF%D9%85%D8%B4%D9%82"
+        },
+        {
+          "id": "11ffa324",
+          "tag": "#حلب",
+          "views": "+5.2B",
+          "status": "📈 صاعد",
+          "growthRate": "+495%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%AD%D9%84%D8%A8"
         }
       ]
     },
@@ -970,51 +970,51 @@
       "countryName": "لبنان 🇱🇧",
       "tags": [
         {
-          "id": "4e8fbb44",
-          "tag": "#سياحة_لبنان",
-          "views": "+1.6B",
-          "status": "📈 صاعد",
-          "growthRate": "+838%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9_%D9%84%D8%A8%D9%86%D8%A7%D9%86"
-        },
-        {
-          "id": "0c1d32a5",
-          "tag": "#اغاني_لبنانية",
-          "views": "+3.1B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+522%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D8%BA%D8%A7%D9%86%D9%8A_%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9"
-        },
-        {
-          "id": "919a1ea3",
-          "tag": "#بيروت",
-          "views": "+7.4B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+867%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A8%D9%8A%D8%B1%D9%88%D8%AA"
-        },
-        {
-          "id": "bf71f53e",
+          "id": "6a92959d",
           "tag": "#لبنان",
           "views": "+12.8B",
           "status": "🔥 متصدر الآن",
-          "growthRate": "+934%",
+          "growthRate": "+671%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D9%84%D8%A8%D9%86%D8%A7%D9%86"
         },
         {
-          "id": "bb3e56fa",
+          "id": "ad9bed84",
           "tag": "#مطاعم_لبنان",
           "views": "+1.8B",
           "status": "📈 صاعد",
-          "growthRate": "+279%",
+          "growthRate": "+748%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D9%85%D8%B7%D8%A7%D8%B9%D9%85_%D9%84%D8%A8%D9%86%D8%A7%D9%86"
         },
         {
-          "id": "ad4c5545",
+          "id": "9658e5eb",
+          "tag": "#اغاني_لبنانية",
+          "views": "+3.1B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+460%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D8%BA%D8%A7%D9%86%D9%8A_%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9"
+        },
+        {
+          "id": "e371770a",
+          "tag": "#سياحة_لبنان",
+          "views": "+1.6B",
+          "status": "📈 صاعد",
+          "growthRate": "+914%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9_%D9%84%D8%A8%D9%86%D8%A7%D9%86"
+        },
+        {
+          "id": "9c654715",
+          "tag": "#بيروت",
+          "views": "+7.4B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+935%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A8%D9%8A%D8%B1%D9%88%D8%AA"
+        },
+        {
+          "id": "0b58b1b7",
           "tag": "#LebanonTrends",
           "views": "+2.9B",
           "status": "🚀 نمو سريع",
-          "growthRate": "+575%",
+          "growthRate": "+554%",
           "searchUrl": "https://www.tiktok.com/tag/%23LebanonTrends"
         }
       ]
@@ -1023,52 +1023,52 @@
       "countryName": "الإمارات 🇦🇪",
       "tags": [
         {
-          "id": "d654c53b",
-          "tag": "#عقارات_دبي",
-          "views": "+4.6B",
-          "status": "🚀 نمو سريع",
-          "growthRate": "+674%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA_%D8%AF%D8%A8%D9%8A"
-        },
-        {
-          "id": "3e961f0a",
-          "tag": "#مطاعم_دبي",
-          "views": "+4.2B",
-          "status": "📈 صاعد",
-          "growthRate": "+277%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D9%85%D8%B7%D8%A7%D8%B9%D9%85_%D8%AF%D8%A8%D9%8A"
-        },
-        {
-          "id": "3fc5d5ad",
-          "tag": "#ابوظبي",
-          "views": "+9.1B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+295%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D8%A8%D9%88%D8%B8%D8%A8%D9%8A"
-        },
-        {
-          "id": "ce7a1174",
+          "id": "468e3c27",
           "tag": "#دبي",
           "views": "+24.8B",
           "status": "🔥 متصدر الآن",
-          "growthRate": "+671%",
+          "growthRate": "+350%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%AF%D8%A8%D9%8A"
         },
         {
-          "id": "38a67a98",
-          "tag": "#الامارات",
-          "views": "+16.2B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+477%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA"
-        },
-        {
-          "id": "1b23b0f6",
+          "id": "7ffd4b83",
           "tag": "#DubaiLife",
           "views": "+14.2B",
           "status": "🔥 متصدر الآن",
-          "growthRate": "+614%",
+          "growthRate": "+834%",
           "searchUrl": "https://www.tiktok.com/tag/%23DubaiLife"
+        },
+        {
+          "id": "d9dc0274",
+          "tag": "#عقارات_دبي",
+          "views": "+4.6B",
+          "status": "🚀 نمو سريع",
+          "growthRate": "+845%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA_%D8%AF%D8%A8%D9%8A"
+        },
+        {
+          "id": "3f798d42",
+          "tag": "#ابوظبي",
+          "views": "+9.1B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+664%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D8%A8%D9%88%D8%B8%D8%A8%D9%8A"
+        },
+        {
+          "id": "f8644cb7",
+          "tag": "#مطاعم_دبي",
+          "views": "+4.2B",
+          "status": "📈 صاعد",
+          "growthRate": "+885%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D9%85%D8%B7%D8%A7%D8%B9%D9%85_%D8%AF%D8%A8%D9%8A"
+        },
+        {
+          "id": "8c1c4e67",
+          "tag": "#الامارات",
+          "views": "+16.2B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+882%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA"
         }
       ]
     },
@@ -1076,52 +1076,52 @@
       "countryName": "مصر 🇪🇬",
       "tags": [
         {
-          "id": "971cab99",
+          "id": "15da24bb",
           "tag": "#الساحل_الشمالي",
           "views": "+5.4B",
           "status": "🚀 نمو سريع",
-          "growthRate": "+382%",
+          "growthRate": "+792%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%B3%D8%A7%D8%AD%D9%84_%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A"
         },
         {
-          "id": "51d0bc3d",
-          "tag": "#مصر",
-          "views": "+41.2B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+764%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D9%85%D8%B5%D8%B1"
-        },
-        {
-          "id": "18868ff1",
-          "tag": "#القاهرة",
-          "views": "+12.4B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+247%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9"
-        },
-        {
-          "id": "ebf964f9",
-          "tag": "#تيك_توك_مصر",
-          "views": "+17.2B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+749%",
-          "searchUrl": "https://www.tiktok.com/tag/%23%D8%AA%D9%8A%D9%83_%D8%AA%D9%88%D9%83_%D9%85%D8%B5%D8%B1"
-        },
-        {
-          "id": "dfd5a253",
+          "id": "66d75e17",
           "tag": "#كوميديا_مصرية",
           "views": "+10.8B",
           "status": "🔥 متصدر الآن",
-          "growthRate": "+779%",
+          "growthRate": "+452%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D9%83%D9%88%D9%85%D9%8A%D8%AF%D9%8A%D8%A7_%D9%85%D8%B5%D8%B1%D9%8A%D8%A9"
         },
         {
-          "id": "85098320",
+          "id": "ddfa8daa",
+          "tag": "#القاهرة",
+          "views": "+12.4B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+646%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9"
+        },
+        {
+          "id": "1e70a0fd",
+          "tag": "#تيك_توك_مصر",
+          "views": "+17.2B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+558%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D8%AA%D9%8A%D9%83_%D8%AA%D9%88%D9%83_%D9%85%D8%B5%D8%B1"
+        },
+        {
+          "id": "df89ab01",
           "tag": "#الاسكندرية",
           "views": "+7.3B",
           "status": "📈 صاعد",
-          "growthRate": "+221%",
+          "growthRate": "+547%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%A7%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9"
+        },
+        {
+          "id": "ed1339a9",
+          "tag": "#مصر",
+          "views": "+41.2B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+242%",
+          "searchUrl": "https://www.tiktok.com/tag/%23%D9%85%D8%B5%D8%B1"
         }
       ]
     },
@@ -1129,35 +1129,35 @@
       "countryName": "قطر 🇶🇦",
       "tags": [
         {
-          "id": "da1d1abb",
+          "id": "4423b800",
           "tag": "#قطر",
           "views": "+10.4B",
           "status": "🔥 متصدر الآن",
-          "growthRate": "+785%",
+          "growthRate": "+201%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D9%82%D8%B7%D8%B1"
         },
         {
-          "id": "7b1be275",
+          "id": "a528249b",
           "tag": "#سوق_واقف",
           "views": "+1.8B",
           "status": "📈 صاعد",
-          "growthRate": "+685%",
+          "growthRate": "+403%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%B3%D9%88%D9%82_%D9%88%D8%A7%D9%82%D9%81"
         },
         {
-          "id": "171f5513",
+          "id": "68aa7451",
           "tag": "#مطاعم_قطر",
           "views": "+2.4B",
           "status": "🚀 نمو سريع",
-          "growthRate": "+355%",
+          "growthRate": "+241%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D9%85%D8%B7%D8%A7%D8%B9%D9%85_%D9%82%D8%B7%D8%B1"
         },
         {
-          "id": "c77becf9",
+          "id": "1d9857d0",
           "tag": "#الدوحة",
           "views": "+5.9B",
           "status": "🔥 متصدر الآن",
-          "growthRate": "+755%",
+          "growthRate": "+810%",
           "searchUrl": "https://www.tiktok.com/tag/%23%D8%A7%D9%84%D8%AF%D9%88%D8%AD%D8%A9"
         }
       ]
@@ -1166,211 +1166,265 @@
       "countryName": "العالم 🌍",
       "tags": [
         {
-          "id": "59f67641",
-          "tag": "#dropshipping",
-          "views": "+39B",
-          "status": "🚀 نمو سريع",
-          "growthRate": "+943%",
-          "searchUrl": "https://www.tiktok.com/tag/%23dropshipping"
-        },
-        {
-          "id": "5a5b332d",
-          "tag": "#fyp",
-          "views": "+1420B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+791%",
-          "searchUrl": "https://www.tiktok.com/tag/%23fyp"
-        },
-        {
-          "id": "22df25eb",
-          "tag": "#viral",
-          "views": "+980B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+810%",
-          "searchUrl": "https://www.tiktok.com/tag/%23viral"
-        },
-        {
-          "id": "de2b1552",
-          "tag": "#TikTokMadeMeBuyIt",
-          "views": "+125B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+152%",
-          "searchUrl": "https://www.tiktok.com/tag/%23TikTokMadeMeBuyIt"
-        },
-        {
-          "id": "a74c62a0",
-          "tag": "#trending",
-          "views": "+490B",
-          "status": "🔥 متصدر الآن",
-          "growthRate": "+768%",
-          "searchUrl": "https://www.tiktok.com/tag/%23trending"
-        },
-        {
-          "id": "c2fd8dd7",
+          "id": "8383b600",
           "tag": "#lifehacks",
           "views": "+105B",
           "status": "🚀 نمو سريع",
-          "growthRate": "+175%",
+          "growthRate": "+752%",
           "searchUrl": "https://www.tiktok.com/tag/%23lifehacks"
+        },
+        {
+          "id": "43f162e4",
+          "tag": "#TikTokMadeMeBuyIt",
+          "views": "+125B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+560%",
+          "searchUrl": "https://www.tiktok.com/tag/%23TikTokMadeMeBuyIt"
+        },
+        {
+          "id": "849730bf",
+          "tag": "#fyp",
+          "views": "+1420B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+200%",
+          "searchUrl": "https://www.tiktok.com/tag/%23fyp"
+        },
+        {
+          "id": "f70d9e6e",
+          "tag": "#viral",
+          "views": "+980B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+673%",
+          "searchUrl": "https://www.tiktok.com/tag/%23viral"
+        },
+        {
+          "id": "3ff843c8",
+          "tag": "#dropshipping",
+          "views": "+39B",
+          "status": "🚀 نمو سريع",
+          "growthRate": "+470%",
+          "searchUrl": "https://www.tiktok.com/tag/%23dropshipping"
+        },
+        {
+          "id": "b3c683d9",
+          "tag": "#trending",
+          "views": "+490B",
+          "status": "🔥 متصدر الآن",
+          "growthRate": "+304%",
+          "searchUrl": "https://www.tiktok.com/tag/%23trending"
         }
       ]
     }
   },
   "winning_products": [
     {
-      "id": "c6983fbc",
-      "productName": "موزع زيت الشعر وفروة الرأس الذكي بالسيليكون 💆‍♀️",
-      "niche": "جمال وعناية شخصية",
-      "problemSolved": "توزيع زيوت وسيروم الشعر مباشرة للجذور بدون توسيخ اليدين أو هدر الزيت",
-      "profitAngle": "ترند تيك توك شوب متصدر في الخليج، سهل البيع كباقة مع زيوت طبيعية",
-      "estimatedOrders": "+40,564 طلب",
-      "growthRate": "🔥 +412% هذا الأسبوع",
-      "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D9%85%D9%88%D8%B2%D8%B9%20%D8%B2%D9%8A%D8%AA%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%20Scalp%20Massager",
-      "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D9%85%D9%88%D8%B2%D8%B9%20%D8%B2%D9%8A%D8%AA%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%20Scalp%20Massager"
-    },
-    {
-      "id": "bfe239f6",
-      "productName": "مضخة غسيل السيارات اللاسلكية بالضغط العالي 🚗",
-      "niche": "سيارات وتلميع",
-      "problemSolved": "غسيل السيارة في أي مكان بدون الحاجة لمصدر ماء أو كهرباء ثابت",
-      "profitAngle": "منتج فخم بمعدل مبيعات مرتفع لعشاق السيارات والكشتات",
-      "estimatedOrders": "+47,537 طلب",
-      "growthRate": "🔥 +951% هذا الأسبوع",
-      "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D9%85%D8%B6%D8%AE%D8%A9%20%D8%BA%D8%B3%D9%8A%D9%84%20%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA%20%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%D8%A9%20%D8%B6%D8%BA%D8%B7%20%D8%B9%D8%A7%D9%84%D9%8A",
-      "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D9%85%D8%B6%D8%AE%D8%A9%20%D8%BA%D8%B3%D9%8A%D9%84%20%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA%20%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%D8%A9%20%D8%B6%D8%BA%D8%B7%20%D8%B9%D8%A7%D9%84%D9%8A"
-    },
-    {
-      "id": "cf282f13",
-      "productName": "مرطب الجو المضاد للجاذبية بقطرات الماء الصاعدة 💧",
-      "niche": "ديكور وسيت أب",
-      "problemSolved": "ترطيب الغرفة بشكل بصري ساحر وجذاب يلفت الأنظار بالمكتب والصالة",
-      "profitAngle": "منتج فايرال كوري جذاب بصرياً بالثواني الأولى من الفيديو",
-      "estimatedOrders": "+3,418 طلب",
-      "growthRate": "🔥 +1202% هذا الأسبوع",
-      "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D9%85%D8%B1%D8%B7%D8%A8%20%D8%AC%D9%88%20%D8%B6%D8%AF%20%D8%A7%D9%84%D8%AC%D8%A7%D8%B0%D8%A8%D9%8A%D8%A9%20%D9%82%D8%B7%D8%B1%D8%A7%D8%AA%20%D9%85%D8%A7%D8%A1",
-      "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D9%85%D8%B1%D8%B7%D8%A8%20%D8%AC%D9%88%20%D8%B6%D8%AF%20%D8%A7%D9%84%D8%AC%D8%A7%D8%B0%D8%A8%D9%8A%D8%A9%20%D9%82%D8%B7%D8%B1%D8%A7%D8%AA%20%D9%85%D8%A7%D8%A1"
-    },
-    {
-      "id": "5f209c40",
-      "productName": "فرشاة تنظيف الأطباق والدهون الكهربائية 5 في 1 🍳",
-      "niche": "أدوات مطبخ وتنظيف",
-      "problemSolved": "تنظيف أصعب دهون المطبخ والبلاط بضغطة زر وبدون مجهود يدوي",
-      "profitAngle": "حل سحري لربات البيوت، يسهل تسويقه بفيديو مقارنة عملي",
-      "estimatedOrders": "+9,861 طلب",
-      "growthRate": "🔥 +1040% هذا الأسبوع",
-      "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D9%81%D8%B1%D8%B4%D8%A7%D8%A9%20%D8%AA%D9%86%D8%B8%D9%8A%D9%81%20%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9%20%D9%84%D9%84%D9%85%D8%B7%D8%A8%D8%AE",
-      "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D9%81%D8%B1%D8%B4%D8%A7%D8%A9%20%D8%AA%D9%86%D8%B8%D9%8A%D9%81%20%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9%20%D9%84%D9%84%D9%85%D8%B7%D8%A8%D8%AE"
-    },
-    {
-      "id": "f277b4c4",
+      "id": "6a6baed1",
       "productName": "شاحن لاسلكي 3 في 1 قابل للطي بتصميم شفاف ⚡",
       "niche": "اكسسوارات هواتف وسفر",
       "problemSolved": "شحن الآيفون والساعة والسماعة بسلك واحد مدمج أثناء السفر والمكتب",
       "profitAngle": "شكل نيون عصري فخم وسهل الاستهداف لأصحاب أجهزة أبل",
-      "estimatedOrders": "+45,504 طلب",
-      "growthRate": "🔥 +1378% هذا الأسبوع",
+      "estimatedOrders": "+41,493 طلب",
+      "growthRate": "🔥 +1302% هذا الأسبوع",
       "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D8%B4%D8%A7%D8%AD%D9%86%20%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%203%20%D9%81%D9%8A%201%20%D8%B4%D9%81%D8%A7%D9%81",
       "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D8%B4%D8%A7%D8%AD%D9%86%20%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%203%20%D9%81%D9%8A%201%20%D8%B4%D9%81%D8%A7%D9%81"
     },
     {
-      "id": "82439bd5",
-      "productName": "ماكينة إزالة وبر الملابس والأثاث اللاسلكية 🧽",
-      "niche": "أجهزة منزلية وعناية",
-      "problemSolved": "إعادة الملابس والكنب القديم كالجديد بـ 30 ثانية بدون إتلاف القماش",
-      "profitAngle": "هامش ربح يتجاوز 65%، فيديو المقارنة قبل وبعد بحقق ملايين المشاهدات",
-      "estimatedOrders": "+50,479 طلب",
-      "growthRate": "🔥 +849% هذا الأسبوع",
-      "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D9%85%D8%A7%D9%83%D9%8A%D9%86%D8%A9%20%D8%A5%D8%B2%D8%A7%D9%84%D8%A9%20%D8%A7%D9%84%D9%88%D8%A8%D8%B1%20Lint%20Remover",
-      "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D9%85%D8%A7%D9%83%D9%8A%D9%86%D8%A9%20%D8%A5%D8%B2%D8%A7%D9%84%D8%A9%20%D8%A7%D9%84%D9%88%D8%A8%D8%B1%20Lint%20Remover"
-    },
-    {
-      "id": "3b8fc6fc",
-      "productName": "مسند تصحيح الظهر الذكي مع حساس اهتزاز 🧘‍♂️",
-      "niche": "صحة ولياقة",
-      "problemSolved": "التنبيه بالاهتزاز فور انحناء الظهر لعلاج آلام الرقبة والمكتب",
-      "profitAngle": "يحل مشكلة شائعة لملايين الموظفين والطلاب واللاعبين",
-      "estimatedOrders": "+51,142 طلب",
-      "growthRate": "🔥 +1532% هذا الأسبوع",
-      "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D9%85%D8%B4%D8%AF%20%D8%B8%D9%87%D8%B1%20%D8%B0%D9%83%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%B3%20%D8%A7%D9%87%D8%AA%D8%B2%D8%A7%D8%B2",
-      "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D9%85%D8%B4%D8%AF%20%D8%B8%D9%87%D8%B1%20%D8%B0%D9%83%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%B3%20%D8%A7%D9%87%D8%AA%D8%B2%D8%A7%D8%B2"
-    },
-    {
-      "id": "9402b0f1",
-      "productName": "إضاءة الليد المغناطيسية بحساس الحركة للدواليب 💡",
-      "niche": "ديكور وإضاءة ذكية",
-      "problemSolved": "إنارة الخزائن والممرات المظلمة بدون حفر أو تمديد أسلاك كهربائية",
-      "profitAngle": "العميل بشتري بالعادة 3 إلى 5 حبات للمنزل الواحد (Upsell عالي)",
-      "estimatedOrders": "+27,717 طلب",
-      "growthRate": "🔥 +1121% هذا الأسبوع",
-      "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D8%A5%D8%B6%D8%A7%D8%A1%D8%A9%20%D9%84%D9%8A%D8%AF%20%D8%AD%D8%B3%D8%A7%D8%B3%20%D8%AD%D8%B1%D9%83%D8%A9%20%D8%AE%D8%B2%D8%A7%D9%86%D8%A9",
-      "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D8%A5%D8%B6%D8%A7%D8%A1%D8%A9%20%D9%84%D9%8A%D8%AF%20%D8%AD%D8%B3%D8%A7%D8%B3%20%D8%AD%D8%B1%D9%83%D8%A9%20%D8%AE%D8%B2%D8%A7%D9%86%D8%A9"
-    },
-    {
-      "id": "507d53dc",
+      "id": "42c02199",
       "productName": "سماعة النوم اللاسلكية المدمجة بقناع العين ثلاثي الأبعاد 💤",
       "niche": "راحة ونوم عميق",
       "problemSolved": "النوم في الطائرة أو الغرفة المعتمة مع الاستماع للمدائح أو البودكاست براحة",
       "profitAngle": "يستهدف الباحثين عن النوم العميق وعشاق السفر والبيلوكس",
-      "estimatedOrders": "+50,722 طلب",
-      "growthRate": "🔥 +483% هذا الأسبوع",
+      "estimatedOrders": "+10,095 طلب",
+      "growthRate": "🔥 +821% هذا الأسبوع",
       "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D9%82%D9%86%D8%A7%D8%B9%20%D9%86%D9%88%D9%85%20%D9%85%D8%B9%20%D8%B3%D9%85%D8%A7%D8%B9%D8%A7%D8%AA%20%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB",
       "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D9%82%D9%86%D8%A7%D8%B9%20%D9%86%D9%88%D9%85%20%D9%85%D8%B9%20%D8%B3%D9%85%D8%A7%D8%B9%D8%A7%D8%AA%20%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB"
     },
     {
-      "id": "503dc3ee",
-      "productName": "مظلة الزجاج الأمامي للسيارة القابلة للطي ☀️",
-      "niche": "سيارات وحماية الصيف",
-      "problemSolved": "عزل حرارة شمس الصيف الحارقة بالخليج وحماية طبلون السيارة",
-      "profitAngle": "منتج صيفي ضروري وسريع المبيعات في الكويت والسعودية والإمارات",
-      "estimatedOrders": "+21,536 طلب",
-      "growthRate": "🔥 +834% هذا الأسبوع",
-      "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D9%85%D8%B8%D9%84%D8%A9%20%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9%20%D8%B4%D9%85%D8%B3%D9%8A%D8%A9%20%D9%82%D8%A7%D8%A8%D9%84%D8%A9%20%D9%84%D9%84%D8%B7%D9%8A",
-      "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D9%85%D8%B8%D9%84%D8%A9%20%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9%20%D8%B4%D9%85%D8%B3%D9%8A%D8%A9%20%D9%82%D8%A7%D8%A8%D9%84%D8%A9%20%D9%84%D9%84%D8%B7%D9%8A"
+      "id": "94b253e8",
+      "productName": "إضاءة الليد المغناطيسية بحساس الحركة للدواليب 💡",
+      "niche": "ديكور وإضاءة ذكية",
+      "problemSolved": "إنارة الخزائن والممرات المظلمة بدون حفر أو تمديد أسلاك كهربائية",
+      "profitAngle": "العميل بشتري بالعادة 3 إلى 5 حبات للمنزل الواحد (Upsell عالي)",
+      "estimatedOrders": "+13,991 طلب",
+      "growthRate": "🔥 +560% هذا الأسبوع",
+      "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D8%A5%D8%B6%D8%A7%D8%A1%D8%A9%20%D9%84%D9%8A%D8%AF%20%D8%AD%D8%B3%D8%A7%D8%B3%20%D8%AD%D8%B1%D9%83%D8%A9%20%D8%AE%D8%B2%D8%A7%D9%86%D8%A9",
+      "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D8%A5%D8%B6%D8%A7%D8%A1%D8%A9%20%D9%84%D9%8A%D8%AF%20%D8%AD%D8%B3%D8%A7%D8%B3%20%D8%AD%D8%B1%D9%83%D8%A9%20%D8%AE%D8%B2%D8%A7%D9%86%D8%A9"
     },
     {
-      "id": "57fff837",
-      "productName": "حامل الهاتف المغناطيسي الذكي مع تتبع الوجه 360° 📱",
-      "niche": "صناعة محتوى وتقنية",
-      "problemSolved": "تصوير فيديوهات تيك توك احترافية وتتبع حركتك تلقائياً بدون مصور",
-      "profitAngle": "مطلوب بقوة من صناع المحتوى والمدربين والمعلمين أونلاين",
-      "estimatedOrders": "+21,881 طلب",
-      "growthRate": "🔥 +1031% هذا الأسبوع",
-      "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D8%AD%D8%A7%D9%85%D9%84%20%D9%87%D8%A7%D8%AA%D9%81%20%D8%AA%D8%AA%D8%A8%D8%B9%20%D8%A7%D9%84%D9%88%D8%AC%D9%87%20360",
-      "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D8%AD%D8%A7%D9%85%D9%84%20%D9%87%D8%A7%D8%AA%D9%81%20%D8%AA%D8%AA%D8%A8%D8%B9%20%D8%A7%D9%84%D9%88%D8%AC%D9%87%20360"
+      "id": "a10116bf",
+      "productName": "مرطب الجو المضاد للجاذبية بقطرات الماء الصاعدة 💧",
+      "niche": "ديكور وسيت أب",
+      "problemSolved": "ترطيب الغرفة بشكل بصري ساحر وجذاب يلفت الأنظار بالمكتب والصالة",
+      "profitAngle": "منتج فايرال كوري جذاب بصرياً بالثواني الأولى من الفيديو",
+      "estimatedOrders": "+10,427 طلب",
+      "growthRate": "🔥 +1148% هذا الأسبوع",
+      "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D9%85%D8%B1%D8%B7%D8%A8%20%D8%AC%D9%88%20%D8%B6%D8%AF%20%D8%A7%D9%84%D8%AC%D8%A7%D8%B0%D8%A8%D9%8A%D8%A9%20%D9%82%D8%B7%D8%B1%D8%A7%D8%AA%20%D9%85%D8%A7%D8%A1",
+      "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D9%85%D8%B1%D8%B7%D8%A8%20%D8%AC%D9%88%20%D8%B6%D8%AF%20%D8%A7%D9%84%D8%AC%D8%A7%D8%B0%D8%A8%D9%8A%D8%A9%20%D9%82%D8%B7%D8%B1%D8%A7%D8%AA%20%D9%85%D8%A7%D8%A1"
     },
     {
-      "id": "c04cee13",
+      "id": "df922bcd",
+      "productName": "موزع زيت الشعر وفروة الرأس الذكي بالسيليكون 💆‍♀️",
+      "niche": "جمال وعناية شخصية",
+      "problemSolved": "توزيع زيوت وسيروم الشعر مباشرة للجذور بدون توسيخ اليدين أو هدر الزيت",
+      "profitAngle": "ترند تيك توك شوب متصدر في الخليج، سهل البيع كباقة مع زيوت طبيعية",
+      "estimatedOrders": "+46,766 طلب",
+      "growthRate": "🔥 +1094% هذا الأسبوع",
+      "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D9%85%D9%88%D8%B2%D8%B9%20%D8%B2%D9%8A%D8%AA%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%20Scalp%20Massager",
+      "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D9%85%D9%88%D8%B2%D8%B9%20%D8%B2%D9%8A%D8%AA%20%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%20Scalp%20Massager"
+    },
+    {
+      "id": "795fa83b",
       "productName": "قاطع ومبشرة الخضار اليدوية الدوارة السريعة 🥗",
       "niche": "مطبخ وأدوات طعام",
       "problemSolved": "تقطيع الخضار والمكسرات والجبن بـ 5 ثواني وبأمان تام للأصابع",
       "profitAngle": "منتج متصدر مبيعات تيك توك شوب دائماً بسبب سرعة العرض بالفيديو",
-      "estimatedOrders": "+51,961 طلب",
-      "growthRate": "🔥 +1299% هذا الأسبوع",
+      "estimatedOrders": "+7,279 طلب",
+      "growthRate": "🔥 +1452% هذا الأسبوع",
       "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D9%82%D8%B7%D8%A7%D8%B9%D8%A9%20%D8%AE%D8%B6%D8%A7%D8%B1%20%D9%8A%D8%AF%D9%88%D9%8A%D8%A9%20%D8%AF%D9%88%D8%A7%D8%B1%D8%A9",
       "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D9%82%D8%B7%D8%A7%D8%B9%D8%A9%20%D8%AE%D8%B6%D8%A7%D8%B1%20%D9%8A%D8%AF%D9%88%D9%8A%D8%A9%20%D8%AF%D9%88%D8%A7%D8%B1%D8%A9"
+    },
+    {
+      "id": "24abe77a",
+      "productName": "ماكينة إزالة وبر الملابس والأثاث اللاسلكية 🧽",
+      "niche": "أجهزة منزلية وعناية",
+      "problemSolved": "إعادة الملابس والكنب القديم كالجديد بـ 30 ثانية بدون إتلاف القماش",
+      "profitAngle": "هامش ربح يتجاوز 65%، فيديو المقارنة قبل وبعد بحقق ملايين المشاهدات",
+      "estimatedOrders": "+35,826 طلب",
+      "growthRate": "🔥 +360% هذا الأسبوع",
+      "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D9%85%D8%A7%D9%83%D9%8A%D9%86%D8%A9%20%D8%A5%D8%B2%D8%A7%D9%84%D8%A9%20%D8%A7%D9%84%D9%88%D8%A8%D8%B1%20Lint%20Remover",
+      "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D9%85%D8%A7%D9%83%D9%8A%D9%86%D8%A9%20%D8%A5%D8%B2%D8%A7%D9%84%D8%A9%20%D8%A7%D9%84%D9%88%D8%A8%D8%B1%20Lint%20Remover"
+    },
+    {
+      "id": "98c7e0ae",
+      "productName": "فرشاة تنظيف الأطباق والدهون الكهربائية 5 في 1 🍳",
+      "niche": "أدوات مطبخ وتنظيف",
+      "problemSolved": "تنظيف أصعب دهون المطبخ والبلاط بضغطة زر وبدون مجهود يدوي",
+      "profitAngle": "حل سحري لربات البيوت، يسهل تسويقه بفيديو مقارنة عملي",
+      "estimatedOrders": "+5,938 طلب",
+      "growthRate": "🔥 +612% هذا الأسبوع",
+      "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D9%81%D8%B1%D8%B4%D8%A7%D8%A9%20%D8%AA%D9%86%D8%B8%D9%8A%D9%81%20%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9%20%D9%84%D9%84%D9%85%D8%B7%D8%A8%D8%AE",
+      "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D9%81%D8%B1%D8%B4%D8%A7%D8%A9%20%D8%AA%D9%86%D8%B8%D9%8A%D9%81%20%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9%20%D9%84%D9%84%D9%85%D8%B7%D8%A8%D8%AE"
+    },
+    {
+      "id": "b5ed46e8",
+      "productName": "مضخة غسيل السيارات اللاسلكية بالضغط العالي 🚗",
+      "niche": "سيارات وتلميع",
+      "problemSolved": "غسيل السيارة في أي مكان بدون الحاجة لمصدر ماء أو كهرباء ثابت",
+      "profitAngle": "منتج فخم بمعدل مبيعات مرتفع لعشاق السيارات والكشتات",
+      "estimatedOrders": "+8,452 طلب",
+      "growthRate": "🔥 +1465% هذا الأسبوع",
+      "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D9%85%D8%B6%D8%AE%D8%A9%20%D8%BA%D8%B3%D9%8A%D9%84%20%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA%20%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%D8%A9%20%D8%B6%D8%BA%D8%B7%20%D8%B9%D8%A7%D9%84%D9%8A",
+      "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D9%85%D8%B6%D8%AE%D8%A9%20%D8%BA%D8%B3%D9%8A%D9%84%20%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA%20%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%D8%A9%20%D8%B6%D8%BA%D8%B7%20%D8%B9%D8%A7%D9%84%D9%8A"
+    },
+    {
+      "id": "dfd9e6f6",
+      "productName": "مظلة الزجاج الأمامي للسيارة القابلة للطي ☀️",
+      "niche": "سيارات وحماية الصيف",
+      "problemSolved": "عزل حرارة شمس الصيف الحارقة بالخليج وحماية طبلون السيارة",
+      "profitAngle": "منتج صيفي ضروري وسريع المبيعات في الكويت والسعودية والإمارات",
+      "estimatedOrders": "+10,088 طلب",
+      "growthRate": "🔥 +846% هذا الأسبوع",
+      "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D9%85%D8%B8%D9%84%D8%A9%20%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9%20%D8%B4%D9%85%D8%B3%D9%8A%D8%A9%20%D9%82%D8%A7%D8%A8%D9%84%D8%A9%20%D9%84%D9%84%D8%B7%D9%8A",
+      "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D9%85%D8%B8%D9%84%D8%A9%20%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9%20%D8%B4%D9%85%D8%B3%D9%8A%D8%A9%20%D9%82%D8%A7%D8%A8%D9%84%D8%A9%20%D9%84%D9%84%D8%B7%D9%8A"
+    },
+    {
+      "id": "12356818",
+      "productName": "حامل الهاتف المغناطيسي الذكي مع تتبع الوجه 360° 📱",
+      "niche": "صناعة محتوى وتقنية",
+      "problemSolved": "تصوير فيديوهات تيك توك احترافية وتتبع حركتك تلقائياً بدون مصور",
+      "profitAngle": "مطلوب بقوة من صناع المحتوى والمدربين والمعلمين أونلاين",
+      "estimatedOrders": "+1,848 طلب",
+      "growthRate": "🔥 +1006% هذا الأسبوع",
+      "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D8%AD%D8%A7%D9%85%D9%84%20%D9%87%D8%A7%D8%AA%D9%81%20%D8%AA%D8%AA%D8%A8%D8%B9%20%D8%A7%D9%84%D9%88%D8%AC%D9%87%20360",
+      "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D8%AD%D8%A7%D9%85%D9%84%20%D9%87%D8%A7%D8%AA%D9%81%20%D8%AA%D8%AA%D8%A8%D8%B9%20%D8%A7%D9%84%D9%88%D8%AC%D9%87%20360"
+    },
+    {
+      "id": "87f10137",
+      "productName": "مسند تصحيح الظهر الذكي مع حساس اهتزاز 🧘‍♂️",
+      "niche": "صحة ولياقة",
+      "problemSolved": "التنبيه بالاهتزاز فور انحناء الظهر لعلاج آلام الرقبة والمكتب",
+      "profitAngle": "يحل مشكلة شائعة لملايين الموظفين والطلاب واللاعبين",
+      "estimatedOrders": "+41,626 طلب",
+      "growthRate": "🔥 +573% هذا الأسبوع",
+      "tiktokAdsUrl": "https://www.tiktok.com/search?q=%D9%85%D8%B4%D8%AF%20%D8%B8%D9%87%D8%B1%20%D8%B0%D9%83%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%B3%20%D8%A7%D9%87%D8%AA%D8%B2%D8%A7%D8%B2",
+      "supplierSearchUrl": "https://www.aliexpress.com/wholesale?SearchText=%D9%85%D8%B4%D8%AF%20%D8%B8%D9%87%D8%B1%20%D8%B0%D9%83%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%B3%20%D8%A7%D9%87%D8%AA%D8%B2%D8%A7%D8%B2"
     }
   ],
   "viral_questions": [
     {
-      "id": "8f28f5a6",
-      "question": "كيف فتحت متجرك بـ 100 دينار وطلعت أرباح أول شهر؟ 🚀",
-      "niche": "تجارة وبزنس 📈",
+      "id": "e837e186",
+      "question": "هل تخصص الذكاء الاصطناعي رح يلغي وظيفة المبرمجين بـ 2026؟ 🤖",
+      "niche": "برمجة وتقنية 💻",
+      "viralRating": "جدل تقني واسع",
+      "estimatedReachBoost": "+77% تفاعل متوقع",
+      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: هل تخصص الذكاء الاصطناعي رح يلغي وظيفة المبرمجين بـ 2026؟ 🤖.. وهي الجواب الصادم!",
+      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
+    },
+    {
+      "id": "8d0ccbbf",
+      "question": "كم رأس المال الحقيقي لتبدأ مشروع دروب شيبينغ بالخليج؟ 💵",
+      "niche": "تجارة الكترونية 🛒",
+      "viralRating": "سؤال واقعي دسم",
+      "estimatedReachBoost": "+144% تفاعل متوقع",
+      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: كم رأس المال الحقيقي لتبدأ مشروع دروب شيبينغ بالخليج؟ 💵.. وهي الجواب الصادم!",
+      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
+    },
+    {
+      "id": "a7990b77",
+      "question": "ليش بطلت تستخدم فلاتر بوجهك بالفيديوهات؟ 👁️",
+      "niche": "صناعة محتوى 📱",
+      "viralRating": "متوسط (فضول عالي)",
+      "estimatedReachBoost": "+167% تفاعل متوقع",
+      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: ليش بطلت تستخدم فلاتر بوجهك بالفيديوهات؟ 👁️.. وهي الجواب الصادم!",
+      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
+    },
+    {
+      "id": "e8ad09f4",
+      "question": "كيف تعالج رطوبة وعفن جدران الحمام نهائياً بدون تكسير؟ 💧",
+      "niche": "ديكور وتشطيبات 🛋️",
+      "viralRating": "حل عملي فوري",
+      "estimatedReachBoost": "+210% تفاعل متوقع",
+      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: كيف تعالج رطوبة وعفن جدران الحمام نهائياً بدون تكسير؟ 💧.. وهي الجواب الصادم!",
+      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
+    },
+    {
+      "id": "a7265178",
+      "question": "شو السر اللي بخلي القهوة تطلع معك فوم زي الكافيهات بالبيت؟ ☕",
+      "niche": "طبخ وفلوقات 🍳",
+      "viralRating": "تفاعل وتجربة",
+      "estimatedReachBoost": "+155% تفاعل متوقع",
+      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: شو السر اللي بخلي القهوة تطلع معك فوم زي الكافيهات بالبيت؟ ☕.. وهي الجواب الصادم!",
+      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
+    },
+    {
+      "id": "c6ef777c",
+      "question": "كيف تتصرف إذا العميل عملك بلوك بعد ما سلمته المشروع؟ 😡",
+      "niche": "عمل حر وبزنس ⏳",
+      "viralRating": "قصة وسرد تجارب",
+      "estimatedReachBoost": "+85% تفاعل متوقع",
+      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: كيف تتصرف إذا العميل عملك بلوك بعد ما سلمته المشروع؟ 😡.. وهي الجواب الصادم!",
+      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
+    },
+    {
+      "id": "01f1d13f",
+      "question": "كيف تطلع أول 1000 متابع حقيقي بدون ما تدفع ولا فلس إعلانات؟ 📈",
+      "niche": "صناعة محتوى 📱",
       "viralRating": "شديد الجذب 🧲",
-      "estimatedReachBoost": "+200% تفاعل متوقع",
-      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: كيف فتحت متجرك بـ 100 دينار وطلعت أرباح أول شهر؟ 🚀.. وهي الجواب الصادم!",
+      "estimatedReachBoost": "+139% تفاعل متوقع",
+      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: كيف تطلع أول 1000 متابع حقيقي بدون ما تدفع ولا فلس إعلانات؟ 📈.. وهي الجواب الصادم!",
       "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
     },
     {
-      "id": "72985037",
-      "question": "شو السبب اللي بخلي المشاهدات تعلق عند 200 مشاهدة بتيك توك؟ 🛑",
-      "niche": "خوارزميات 📱",
-      "viralRating": "سؤال الموسم 🔥",
-      "estimatedReachBoost": "+154% تفاعل متوقع",
-      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: شو السبب اللي بخلي المشاهدات تعلق عند 200 مشاهدة بتيك توك؟ 🛑.. وهي الجواب الصادم!",
+      "id": "45055137",
+      "question": "هل الشاحن التجاري الرخيص فعلاً بحرق بطارية الآيفون؟ ⚡",
+      "niche": "تقنية وهواتف 💻",
+      "viralRating": "تحذيري صادم",
+      "estimatedReachBoost": "+146% تفاعل متوقع",
+      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: هل الشاحن التجاري الرخيص فعلاً بحرق بطارية الآيفون؟ ⚡.. وهي الجواب الصادم!",
       "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
     },
     {
-      "id": "3428ba75",
+      "id": "648f3c05",
       "question": "ليش بديل الخشب بجمع غبار بالصالات إذا ركب غلط؟ 🪵",
       "niche": "ديكور وتشطيبات 🛋️",
       "viralRating": "نصيحة هندسية",
@@ -1379,238 +1433,184 @@
       "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
     },
     {
-      "id": "36516d2f",
-      "question": "شو أفضل رد لما العميل يحكيلك (سعرك غالي ولقيت أرخص)؟ 🗣️",
-      "niche": "مبيعات وتسويق 📈",
-      "viralRating": "فن إغلاق الصفقات",
-      "estimatedReachBoost": "+114% تفاعل متوقع",
-      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: شو أفضل رد لما العميل يحكيلك (سعرك غالي ولقيت أرخص)؟ 🗣️.. وهي الجواب الصادم!",
-      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
-    },
-    {
-      "id": "65039f34",
-      "question": "هل الشاحن التجاري الرخيص فعلاً بحرق بطارية الآيفون؟ ⚡",
-      "niche": "تقنية وهواتف 💻",
-      "viralRating": "تحذيري صادم",
-      "estimatedReachBoost": "+138% تفاعل متوقع",
-      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: هل الشاحن التجاري الرخيص فعلاً بحرق بطارية الآيفون؟ ⚡.. وهي الجواب الصادم!",
-      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
-    },
-    {
-      "id": "5c2051fe",
-      "question": "إذا بدأت برمجة من الصفر بالذكاء الاصطناعي كم أحتاج وقت؟ 🤖",
-      "niche": "برمجة وذكاء 💻",
-      "viralRating": "تفاعل تعليمي",
-      "estimatedReachBoost": "+134% تفاعل متوقع",
-      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: إذا بدأت برمجة من الصفر بالذكاء الاصطناعي كم أحتاج وقت؟ 🤖.. وهي الجواب الصادم!",
-      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
-    },
-    {
-      "id": "78f2b936",
-      "question": "ليش إضاءة 3000K أحسن من الإضاءة البيضاء للصالات؟ 💡",
-      "niche": "ديكور وإضاءة 🛋️",
-      "viralRating": "جدلي ومقنع",
-      "estimatedReachBoost": "+65% تفاعل متوقع",
-      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: ليش إضاءة 3000K أحسن من الإضاءة البيضاء للصالات؟ 💡.. وهي الجواب الصادم!",
-      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
-    },
-    {
-      "id": "2ad5818f",
-      "question": "كيف تطلع أول 1000 متابع حقيقي بدون ما تدفع ولا فلس إعلانات؟ 📈",
-      "niche": "صناعة محتوى 📱",
-      "viralRating": "شديد الجذب 🧲",
-      "estimatedReachBoost": "+128% تفاعل متوقع",
-      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: كيف تطلع أول 1000 متابع حقيقي بدون ما تدفع ولا فلس إعلانات؟ 📈.. وهي الجواب الصادم!",
-      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
-    },
-    {
-      "id": "d5d1bee5",
+      "id": "a08d1acf",
       "question": "كم كلفكم المتر عظم بالتشطيب مع المواد؟ 💰",
       "niche": "ديكور وتشطيبات 🛋️",
       "viralRating": "سهل (تفاعل صاروخي)",
-      "estimatedReachBoost": "+190% تفاعل متوقع",
+      "estimatedReachBoost": "+183% تفاعل متوقع",
       "suggestedHook": "أكثر سؤال وصلني بالتعليقات: كم كلفكم المتر عظم بالتشطيب مع المواد؟ 💰.. وهي الجواب الصادم!",
       "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
     },
     {
-      "id": "d0618705",
-      "question": "كيف تعالج رطوبة وعفن جدران الحمام نهائياً بدون تكسير؟ 💧",
-      "niche": "ديكور وتشطيبات 🛋️",
-      "viralRating": "حل عملي فوري",
-      "estimatedReachBoost": "+197% تفاعل متوقع",
-      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: كيف تعالج رطوبة وعفن جدران الحمام نهائياً بدون تكسير؟ 💧.. وهي الجواب الصادم!",
-      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
-    },
-    {
-      "id": "fc622042",
-      "question": "ليش بطلت تستخدم فلاتر بوجهك بالفيديوهات؟ 👁️",
-      "niche": "صناعة محتوى 📱",
-      "viralRating": "متوسط (فضول عالي)",
-      "estimatedReachBoost": "+150% تفاعل متوقع",
-      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: ليش بطلت تستخدم فلاتر بوجهك بالفيديوهات؟ 👁️.. وهي الجواب الصادم!",
-      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
-    },
-    {
-      "id": "dc2edc69",
-      "question": "شو السر اللي بخلي القهوة تطلع معك فوم زي الكافيهات بالبيت؟ ☕",
-      "niche": "طبخ وفلوقات 🍳",
-      "viralRating": "تفاعل وتجربة",
-      "estimatedReachBoost": "+66% تفاعل متوقع",
-      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: شو السر اللي بخلي القهوة تطلع معك فوم زي الكافيهات بالبيت؟ ☕.. وهي الجواب الصادم!",
-      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
-    },
-    {
-      "id": "3cbfa6e0",
-      "question": "هل تخصص الذكاء الاصطناعي رح يلغي وظيفة المبرمجين بـ 2026؟ 🤖",
-      "niche": "برمجة وتقنية 💻",
-      "viralRating": "جدل تقني واسع",
-      "estimatedReachBoost": "+83% تفاعل متوقع",
-      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: هل تخصص الذكاء الاصطناعي رح يلغي وظيفة المبرمجين بـ 2026؟ 🤖.. وهي الجواب الصادم!",
-      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
-    },
-    {
-      "id": "30942763",
-      "question": "كيف تنزل وزنك بدون ما تحرم حالك من أكل المطاعم؟ 🍔",
-      "niche": "صحة ورشاقة 🏋️",
-      "viralRating": "تفاعل عالي جداً",
-      "estimatedReachBoost": "+208% تفاعل متوقع",
-      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: كيف تنزل وزنك بدون ما تحرم حالك من أكل المطاعم؟ 🍔.. وهي الجواب الصادم!",
-      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
-    },
-    {
-      "id": "8ab13662",
-      "question": "كيف تتصرف إذا العميل عملك بلوك بعد ما سلمته المشروع؟ 😡",
-      "niche": "عمل حر وبزنس ⏳",
-      "viralRating": "قصة وسرد تجارب",
-      "estimatedReachBoost": "+202% تفاعل متوقع",
-      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: كيف تتصرف إذا العميل عملك بلوك بعد ما سلمته المشروع؟ 😡.. وهي الجواب الصادم!",
-      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
-    },
-    {
-      "id": "9b99877e",
+      "id": "27686de1",
       "question": "كيف تشتري سيارة مستعملة بدون ما ينضحك عليك بالصبغ والحوادث؟ 🚗",
       "niche": "سيارات وفحص 🏎️",
       "viralRating": "قيمة وإنقاذ مالي",
-      "estimatedReachBoost": "+94% تفاعل متوقع",
+      "estimatedReachBoost": "+120% تفاعل متوقع",
       "suggestedHook": "أكثر سؤال وصلني بالتعليقات: كيف تشتري سيارة مستعملة بدون ما ينضحك عليك بالصبغ والحوادث؟ 🚗.. وهي الجواب الصادم!",
       "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
     },
     {
-      "id": "60c32b02",
-      "question": "كم رأس المال الحقيقي لتبدأ مشروع دروب شيبينغ بالخليج؟ 💵",
-      "niche": "تجارة الكترونية 🛒",
-      "viralRating": "سؤال واقعي دسم",
-      "estimatedReachBoost": "+66% تفاعل متوقع",
-      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: كم رأس المال الحقيقي لتبدأ مشروع دروب شيبينغ بالخليج؟ 💵.. وهي الجواب الصادم!",
-      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
-    },
-    {
-      "id": "97fca9a6",
+      "id": "bdae2d98",
       "question": "شو الفرق الحقيقي بين رندر V-Ray و D5 Render بالواقعية؟ 🎨",
       "niche": "تصميم وجرافيك 🎨",
       "viralRating": "نقاش تقني دسم",
-      "estimatedReachBoost": "+178% تفاعل متوقع",
+      "estimatedReachBoost": "+91% تفاعل متوقع",
       "suggestedHook": "أكثر سؤال وصلني بالتعليقات: شو الفرق الحقيقي بين رندر V-Ray و D5 Render بالواقعية؟ 🎨.. وهي الجواب الصادم!",
+      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
+    },
+    {
+      "id": "b3c76eab",
+      "question": "شو السبب اللي بخلي المشاهدات تعلق عند 200 مشاهدة بتيك توك؟ 🛑",
+      "niche": "خوارزميات 📱",
+      "viralRating": "سؤال الموسم 🔥",
+      "estimatedReachBoost": "+163% تفاعل متوقع",
+      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: شو السبب اللي بخلي المشاهدات تعلق عند 200 مشاهدة بتيك توك؟ 🛑.. وهي الجواب الصادم!",
+      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
+    },
+    {
+      "id": "bc30b9c0",
+      "question": "إذا بدأت برمجة من الصفر بالذكاء الاصطناعي كم أحتاج وقت؟ 🤖",
+      "niche": "برمجة وذكاء 💻",
+      "viralRating": "تفاعل تعليمي",
+      "estimatedReachBoost": "+191% تفاعل متوقع",
+      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: إذا بدأت برمجة من الصفر بالذكاء الاصطناعي كم أحتاج وقت؟ 🤖.. وهي الجواب الصادم!",
+      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
+    },
+    {
+      "id": "44a66e7d",
+      "question": "ليش إضاءة 3000K أحسن من الإضاءة البيضاء للصالات؟ 💡",
+      "niche": "ديكور وإضاءة 🛋️",
+      "viralRating": "جدلي ومقنع",
+      "estimatedReachBoost": "+82% تفاعل متوقع",
+      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: ليش إضاءة 3000K أحسن من الإضاءة البيضاء للصالات؟ 💡.. وهي الجواب الصادم!",
+      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
+    },
+    {
+      "id": "649de256",
+      "question": "شو أفضل رد لما العميل يحكيلك (سعرك غالي ولقيت أرخص)؟ 🗣️",
+      "niche": "مبيعات وتسويق 📈",
+      "viralRating": "فن إغلاق الصفقات",
+      "estimatedReachBoost": "+122% تفاعل متوقع",
+      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: شو أفضل رد لما العميل يحكيلك (سعرك غالي ولقيت أرخص)؟ 🗣️.. وهي الجواب الصادم!",
+      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
+    },
+    {
+      "id": "8244ddfe",
+      "question": "كيف فتحت متجرك بـ 100 دينار وطلعت أرباح أول شهر؟ 🚀",
+      "niche": "تجارة وبزنس 📈",
+      "viralRating": "شديد الجذب 🧲",
+      "estimatedReachBoost": "+139% تفاعل متوقع",
+      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: كيف فتحت متجرك بـ 100 دينار وطلعت أرباح أول شهر؟ 🚀.. وهي الجواب الصادم!",
+      "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
+    },
+    {
+      "id": "91d387ed",
+      "question": "كيف تنزل وزنك بدون ما تحرم حالك من أكل المطاعم؟ 🍔",
+      "niche": "صحة ورشاقة 🏋️",
+      "viralRating": "تفاعل عالي جداً",
+      "estimatedReachBoost": "+106% تفاعل متوقع",
+      "suggestedHook": "أكثر سؤال وصلني بالتعليقات: كيف تنزل وزنك بدون ما تحرم حالك من أكل المطاعم؟ 🍔.. وهي الجواب الصادم!",
       "actionPrompt": "افتح الكاميرا واقرأ السؤال من الشاشة ورد عليه مباشرة بثقة."
     }
   ],
   "top_comments": [
     {
-      "id": "aaece9a1",
-      "commentText": "الفرق بين الناجح والفاشل هو إن الناجح بدأ حتى وهو خايف ومش جاهز! 🦁🔥",
-      "commentType": "تحفيز ناري",
-      "engagementLikes": "+35.0K",
-      "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
-    },
-    {
-      "id": "18847468",
-      "commentText": "خوارزمية تيك توك بتعرف عني أكثر من أهلي والله! 😂🎯",
-      "commentType": "ميمز وترند",
-      "engagementLikes": "+41.9K",
-      "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
-    },
-    {
-      "id": "d2cbb7c6",
-      "commentText": "التيك توك بحسسك إنه كل الناس صارت مليونيرية إلا أنت وصاحبك! 🌚",
-      "commentType": "واقعي ساخر",
-      "engagementLikes": "+44.1K",
-      "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
-    },
-    {
-      "id": "a1a130da",
-      "commentText": "الكاريزما قدام الكاميرا بتصنع مبيعات أكثر من 10 حملات إعلانية ممولة! 🎥👑",
-      "commentType": "أسرار صناعة المحتوى",
-      "engagementLikes": "+22.9K",
-      "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
-    },
-    {
-      "id": "301453c8",
-      "commentText": "المقاول الشاطر ببين من نعلات الأرضية والزوايا مش من دهان الصالة! 🧱👌",
-      "commentType": "قصف جبهات هندسي",
-      "engagementLikes": "+26.8K",
-      "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
-    },
-    {
-      "id": "4290f357",
-      "commentText": "دخلت عشان أتعلم كيف أوفر، طلعت شاري المنتج وأنا بضحك! 😂💸",
-      "commentType": "كوميدي وفايرال",
-      "engagementLikes": "+37.2K",
-      "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
-    },
-    {
-      "id": "9ea5f1a9",
+      "id": "502ad46a",
       "commentText": "احفظ الفيديو هسا لأنك رح ترجع تدور عليه وتندم وقت التشطيب! 📌💎",
       "commentType": "كول تو أكشن مغناطيسي",
       "engagementLikes": "+18.9K",
       "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
     },
     {
-      "id": "49735f42",
-      "commentText": "اللي بحكيلك البرمجة صعبة بكون ما جرب يكتب كود واحد صح بحياته! 💻⚡",
-      "commentType": "تحفيز مبرمجين",
-      "engagementLikes": "+16.7K",
+      "id": "f90f9be4",
+      "commentText": "التيك توك بحسسك إنه كل الناس صارت مليونيرية إلا أنت وصاحبك! 🌚",
+      "commentType": "واقعي ساخر",
+      "engagementLikes": "+44.1K",
       "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
     },
     {
-      "id": "9340f800",
+      "id": "14510047",
       "commentText": "أنا ما بنافس بالسعر، أنا بنافس براحة بالك وجودة الشغل اللي رح تعيش معك عمر! 💎👑",
       "commentType": "رد مبيعات ملكي",
       "engagementLikes": "+23.4K",
       "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
     },
     {
-      "id": "3822d139",
+      "id": "39b00021",
       "commentText": "العميل اللي بفاصلك على 5 دنانير هو أول واحد بطلب 50 تعديل! 🤦‍♂️",
       "commentType": "معاناة الفريلانسرز",
       "engagementLikes": "+31.5K",
       "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
     },
     {
-      "id": "189ae3c8",
-      "commentText": "يا ريتني شفت هاد الفيديو قبل ما أوقع عقد المقاولات وخسرت 5 آلاف دينار! 😭📉",
-      "commentType": "ندم وعبرة",
-      "engagementLikes": "+28.3K",
-      "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
-    },
-    {
-      "id": "14e8e41e",
-      "commentText": "السر مش بالمنتج، السر بالزاوية اللي بتصور منها 🤫✨",
-      "commentType": "حكمة وتسويق",
-      "engagementLikes": "+19.4K",
-      "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
-    },
-    {
-      "id": "abd26b2c",
+      "id": "0bae52e6",
       "commentText": "الفيديو طلعلي بالوقت المناسب بالضبط، جاري التطبيق فوراً! 🚀🔥",
       "commentType": "تفاعل إيجابي",
       "engagementLikes": "+14.2K",
       "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
     },
     {
-      "id": "e686ab1c",
+      "id": "089508e4",
+      "commentText": "اللي بحكيلك البرمجة صعبة بكون ما جرب يكتب كود واحد صح بحياته! 💻⚡",
+      "commentType": "تحفيز مبرمجين",
+      "engagementLikes": "+16.7K",
+      "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
+    },
+    {
+      "id": "f95bd7fa",
+      "commentText": "يا ريتني شفت هاد الفيديو قبل ما أوقع عقد المقاولات وخسرت 5 آلاف دينار! 😭📉",
+      "commentType": "ندم وعبرة",
+      "engagementLikes": "+28.3K",
+      "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
+    },
+    {
+      "id": "8ef8807c",
+      "commentText": "السر مش بالمنتج، السر بالزاوية اللي بتصور منها 🤫✨",
+      "commentType": "حكمة وتسويق",
+      "engagementLikes": "+19.4K",
+      "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
+    },
+    {
+      "id": "7b6fc25b",
+      "commentText": "الفرق بين الناجح والفاشل هو إن الناجح بدأ حتى وهو خايف ومش جاهز! 🦁🔥",
+      "commentType": "تحفيز ناري",
+      "engagementLikes": "+35.0K",
+      "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
+    },
+    {
+      "id": "c238914e",
+      "commentText": "الكاريزما قدام الكاميرا بتصنع مبيعات أكثر من 10 حملات إعلانية ممولة! 🎥👑",
+      "commentType": "أسرار صناعة المحتوى",
+      "engagementLikes": "+22.9K",
+      "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
+    },
+    {
+      "id": "6a16844c",
+      "commentText": "المقاول الشاطر ببين من نعلات الأرضية والزوايا مش من دهان الصالة! 🧱👌",
+      "commentType": "قصف جبهات هندسي",
+      "engagementLikes": "+26.8K",
+      "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
+    },
+    {
+      "id": "2ccffff5",
       "commentText": "إذا التطبيق مجاني 100%، تأكد إنك أنت المنتج اللي بنباع يا صديقي! 👁️",
       "commentType": "صدمة ووعي تقني",
       "engagementLikes": "+56.8K",
+      "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
+    },
+    {
+      "id": "0088b3e1",
+      "commentText": "دخلت عشان أتعلم كيف أوفر، طلعت شاري المنتج وأنا بضحك! 😂💸",
+      "commentType": "كوميدي وفايرال",
+      "engagementLikes": "+37.2K",
+      "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
+    },
+    {
+      "id": "1b6080c9",
+      "commentText": "خوارزمية تيك توك بتعرف عني أكثر من أهلي والله! 😂🎯",
+      "commentType": "ميمز وترند",
+      "engagementLikes": "+41.9K",
       "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك."
     }
   ],

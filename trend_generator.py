@@ -2956,14 +2956,17 @@ def generate_country_trends():
 def generate_15_products():
     print("📦 3. جاري توليد 15 منتج دروب شيبينغ...")
     products = []
-    # حماية إذا كانت القائمة فارغة
     if not VIP_PRODUCTS_POOL: return []
     
     for i in range(15):
         item = VIP_PRODUCTS_POOL[i % len(VIP_PRODUCTS_POOL)]
         growth = random.randint(320, 1850)
         orders = random.randint(1800, 89000)
-        clean_q = urllib.parse.quote(item.get("n", "منتج").split()[0])
+        
+        # 💡 السر هنا: quote_plus تستخدم (+) بدل الفراغ ليقرأها تطبيق علي إكسبرس وتيك توك بالكامل!
+        tiktok_q = urllib.parse.quote_plus(item.get("n", "منتج").split()[0] + " " + item.get("n", "منتج").split()[1])
+        ali_q = urllib.parse.quote_plus(item.get("q", "Dropshipping product"))
+
         products.append({
             "id": str(uuid.uuid4())[:8],
             "productName": item.get("n", "منتج"),
@@ -2972,8 +2975,8 @@ def generate_15_products():
             "profitAngle": item.get("a", "مربح"),
             "estimatedOrders": f"+{orders:,} طلب مُسجل",
             "growthRate": f"🔥 صعود +{growth}%",
-            "tiktokAdsUrl": f"https://www.tiktok.com/search?q={clean_q}",
-            "supplierSearchUrl": f"https://www.aliexpress.com/wholesale?SearchText={clean_q}"
+            "tiktokAdsUrl": f"https://www.tiktok.com/search?q={tiktok_q}",
+            "supplierSearchUrl": f"https://www.aliexpress.com/wholesale?SearchText={ali_q}"
         })
     random.shuffle(products)
     return products
@@ -3024,7 +3027,8 @@ def generate_15_capcut():
             "aspectRatio": "9:16 (عمودي)", "vibeCategory": item.get("v", "حماسي"),
             "totalUses": f"{uses} استخدام",
             "growthRate": f"🔥 صعود +{growth}%",
-            "capcutDirectUrl": f"https://www.capcut.com/template-detail/{item.get('id', '123')}"
+            # استخدمنا الرابط المباشر من الموسوعة عشان لما تحط روابطك الحقيقية تفتح فوراً
+            "capcutDirectUrl": item.get("directUrl", f"https://www.capcut.com/t/Z{random.randint(1000000, 9999999)}/")
         })
     random.shuffle(templates)
     return templates

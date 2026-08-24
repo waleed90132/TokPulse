@@ -2837,8 +2837,7 @@ REWARDS_MATRIX = {
 }
 
 # =========================================================================
-# ⚙️ [المنطقة الثانية: محركات السحب والتوليد الآلي - ENGINE LOGIC]
-# (تقوم بتوليد 150 صوتاً و 15 عنصراً لكل قسم تلقائياً)
+# ⚙️ محرك المعالجة والتوليد لـ data.json (محمي ومصحح بالكامل)
 # =========================================================================
 
 FETCHED_AUDIO_CACHE = {}
@@ -2880,6 +2879,10 @@ def generate_150_sounds():
     all_sounds = []
     used_tracks = set()
 
+    # حماية من خطأ القاموس الفارغ
+    if not GENRE_QUERIES:
+        GENRE_QUERIES["عام"] = ["موسيقى"]
+
     for cat, terms in GENRE_QUERIES.items():
         for term in random.sample(terms, min(5, len(terms))):
             try:
@@ -2906,6 +2909,21 @@ def generate_150_sounds():
             except Exception:
                 pass
             time.sleep(0.08)
+
+    # 🔴 حماية استراتيجية: إذا فشل خادم أبل، استخدم الأصوات الاحتياطية حتى لا تختفي الشاشة!
+    if len(all_sounds) == 0:
+        print("⚠️ أبل ميوزك لم تستجب، جاري استخدام الأصوات الاحتياطية...")
+        for i in range(15):
+            all_sounds.append({
+                "id": str(uuid.uuid4())[:8],
+                "title": f"صوت ترند أساسي {i+1} 🎵",
+                "author": "موسيقى تيك توك",
+                "usesCount": f"+{random.randint(10, 500)}K استخدام",
+                "growthRate": f"🔥 نمو +{random.randint(200, 900)}% اليوم",
+                "previewAudioUrl": random.choice(VERIFIED_FALLBACK_AUDIO),
+                "officialUrl": "https://www.tiktok.com",
+                "category": "منوع"
+            })
 
     random.shuffle(all_sounds)
     return all_sounds[:150]
@@ -2938,17 +2956,20 @@ def generate_country_trends():
 def generate_15_products():
     print("📦 3. جاري توليد 15 منتج دروب شيبينغ...")
     products = []
+    # حماية إذا كانت القائمة فارغة
+    if not VIP_PRODUCTS_POOL: return []
+    
     for i in range(15):
         item = VIP_PRODUCTS_POOL[i % len(VIP_PRODUCTS_POOL)]
         growth = random.randint(320, 1850)
         orders = random.randint(1800, 89000)
-        clean_q = urllib.parse.quote(item["n"].split()[0] + " " + item["n"].split()[1])
+        clean_q = urllib.parse.quote(item.get("n", "منتج").split()[0])
         products.append({
             "id": str(uuid.uuid4())[:8],
-            "productName": item["n"],
-            "niche": item["c"],
-            "problemSolved": item["p"],
-            "profitAngle": item["a"],
+            "productName": item.get("n", "منتج"),
+            "niche": item.get("c", "عام"),
+            "problemSolved": item.get("p", "يحل مشكلة"),
+            "profitAngle": item.get("a", "مربح"),
             "estimatedOrders": f"+{orders:,} طلب مُسجل",
             "growthRate": f"🔥 صعود +{growth}%",
             "tiktokAdsUrl": f"https://www.tiktok.com/search?q={clean_q}",
@@ -2960,25 +2981,30 @@ def generate_15_products():
 def generate_15_qa_and_comments():
     print("❓💬 4. جاري توليد 15 سؤال و 15 كومنت فايرال...")
     qa, comments = [], []
-    for i in range(15):
-        q = VIP_QUESTIONS_POOL[i % len(VIP_QUESTIONS_POOL)]
-        boost = random.randint(50, 350)
-        qa.append({
-            "id": str(uuid.uuid4())[:8],
-            "question": q["q"], "niche": q["n"], "viralRating": q["d"],
-            "estimatedReachBoost": f"+{boost}% تفاعل إضافي",
-            "suggestedHook": q["h"],
-            "actionPrompt": q["a"]
-        })
+    
+    if VIP_QUESTIONS_POOL:
+        for i in range(15):
+            q = VIP_QUESTIONS_POOL[i % len(VIP_QUESTIONS_POOL)]
+            boost = random.randint(50, 350)
+            qa.append({
+                "id": str(uuid.uuid4())[:8],
+                "question": q.get("q", "سؤال؟"), "niche": q.get("n", "عام"), "viralRating": q.get("d", "عالي"),
+                "estimatedReachBoost": f"+{boost}% تفاعل إضافي",
+                "suggestedHook": q.get("h", "الهوك"),
+                "actionPrompt": q.get("a", "أكشن")
+            })
 
-        c = VIP_COMMENTS_POOL[i % len(VIP_COMMENTS_POOL)]
-        likes = f"+{random.randint(10, 99)}.{random.randint(1,9)}K"
-        comments.append({
-            "id": str(uuid.uuid4())[:8],
-            "commentText": c["c"], "commentType": c["t"],
-            "engagementLikes": likes,
-            "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك مجاناً."
-        })
+    if VIP_COMMENTS_POOL:
+        for i in range(15):
+            c = VIP_COMMENTS_POOL[i % len(VIP_COMMENTS_POOL)]
+            likes = f"+{random.randint(10, 99)}.{random.randint(1,9)}K"
+            comments.append({
+                "id": str(uuid.uuid4())[:8],
+                "commentText": c.get("c", "تعليق"), "commentType": c.get("t", "نوع"),
+                "engagementLikes": likes,
+                "copyAdvice": "انسخ هذا التعليق وضعه على فيديوهات منافسيك لجذب زيارات لبروفايلك مجاناً."
+            })
+            
     random.shuffle(qa)
     random.shuffle(comments)
     return qa, comments
@@ -2986,17 +3012,19 @@ def generate_15_qa_and_comments():
 def generate_15_capcut():
     print("🎬 5. جاري توليد 15 قالب CapCut...")
     templates = []
+    if not VIP_CAPCUT_POOL: return []
+    
     for i in range(15):
         item = VIP_CAPCUT_POOL[i % len(VIP_CAPCUT_POOL)]
         growth = random.randint(150, 1200)
         uses = f"+{random.randint(1, 25)}.{random.randint(1, 9)}M"
         templates.append({
             "id": str(uuid.uuid4())[:8],
-            "title": item["t"], "creator": item["c"],
-            "aspectRatio": "9:16 (عمودي)", "vibeCategory": item["v"],
+            "title": item.get("t", "قالب"), "creator": item.get("c", "مصمم"),
+            "aspectRatio": "9:16 (عمودي)", "vibeCategory": item.get("v", "حماسي"),
             "totalUses": f"{uses} استخدام",
             "growthRate": f"🔥 صعود +{growth}%",
-            "capcutDirectUrl": f"https://www.capcut.com/template-detail/{item['id']}"
+            "capcutDirectUrl": f"https://www.capcut.com/template-detail/{item.get('id', '123')}"
         })
     random.shuffle(templates)
     return templates
@@ -3004,34 +3032,67 @@ def generate_15_capcut():
 def generate_15_ads_and_competitors():
     print("🎯🕵️ 6. جاري توليد 15 اهتمام إعلاني و 30 حساب منافس...")
     ads = []
-    for i in range(15):
-        item = AD_KEYWORDS_POOL[i % len(AD_KEYWORDS_POOL)]
-        ads.append({
-            "id": str(uuid.uuid4())[:8],
-            "nicheTitle": item["n"],
-            "targetAudienceDescription": "جمهور خليجي وشامي ذو قدرة شرائية عالية جداً",
-            "metaAndTikTokKeywordsEnglish": item["en"],
-            "targetKeywordsArabic": item["ar"],
-            "expertStrategyTip": item["tip"]
-        })
+    if AD_KEYWORDS_POOL:
+        for i in range(15):
+            item = AD_KEYWORDS_POOL[i % len(AD_KEYWORDS_POOL)]
+            ads.append({
+                "id": str(uuid.uuid4())[:8],
+                "nicheTitle": item.get("n", "نيتش"),
+                "targetAudienceDescription": "جمهور خليجي وشامي ذو قدرة شرائية عالية جداً",
+                "metaAndTikTokKeywordsEnglish": item.get("en", "Keywords"),
+                "targetKeywordsArabic": item.get("ar", "كلمات"),
+                "expertStrategyTip": item.get("tip", "نصيحة")
+            })
 
     comps = []
-    for i in range(15):
-        region = "GULF" if i % 2 == 0 else "LEVANT"
-        c = COMPETITORS_GULF[i % len(COMPETITORS_GULF)] if region == "GULF" else COMPETITORS_LEVANT[i % len(COMPETITORS_LEVANT)]
-        comps.append({
-            "id": str(uuid.uuid4())[:8],
-            "accountHandle": f"{c['acc']}_{random.randint(10, 999)}",
-            "niche": c["niche"],
-            "followerCount": f"{random.randint(50, 1500)}K",
-            "viralSecretReason": c["sec"],
-            "signatureHookStyle": c["hook"],
-            "profileUrl": f"https://www.tiktok.com/{c['acc']}",
-            "region": region
-        })
+    if COMPETITORS_GULF and COMPETITORS_LEVANT:
+        for i in range(15):
+            region = "GULF" if i % 2 == 0 else "LEVANT"
+            c = COMPETITORS_GULF[i % len(COMPETITORS_GULF)] if region == "GULF" else COMPETITORS_LEVANT[i % len(COMPETITORS_LEVANT)]
+            comps.append({
+                "id": str(uuid.uuid4())[:8],
+                "accountHandle": f"{c.get('acc', '@user')}_{random.randint(10, 999)}",
+                "niche": c.get("niche", "نيتش"),
+                "followerCount": f"{random.randint(50, 1500)}K",
+                "viralSecretReason": c.get("sec", "سر"),
+                "signatureHookStyle": c.get("hook", "هوك"),
+                "profileUrl": f"https://www.tiktok.com/{c.get('acc', '@user')}",
+                "region": region
+            })
     random.shuffle(ads)
     random.shuffle(comps)
     return ads, comps
+
+# 🔴 إضافة دالة أوقات النشر التي انحذفت من الكود القديم
+def generate_posting_times():
+    print("⏰ 7. جاري إعداد بوصلة أفضل ساعات النشر...")
+    return {
+        "KW_SA_QA": {
+            "regionName": "الكويت 🇰🇼، السعودية 🇸🇦، قطر 🇶🇦 (GMT+3)",
+            "goldenHours": [
+                {"slot": "فترة الظهيرة والراحة ☀️", "time": "01:15 PM - 02:45 PM", "engagement": "92% تفاعل عالي"},
+                {"slot": "ذروة المساء الذهبية 🌙", "time": "08:30 PM - 11:30 PM", "engagement": "98% أعلى قمة تفاعل"},
+                {"slot": "سهرة وسوالف آخر الليل 🌚", "time": "12:45 AM - 02:00 AM", "engagement": "86% مقاطع طويلة"}
+            ],
+            "bestDays": "الخميس والجمعة والسبت"
+        },
+        "JO_PS_SY_LB_EG": {
+            "regionName": "الأردن 🇯🇴، فلسطين 🇵🇸، سوريا 🇸🇾، لبنان 🇱🇧، مصر 🇪🇬",
+            "goldenHours": [
+                {"slot": "بعد العصر والمواصلات 🚌", "time": "04:30 PM - 06:00 PM", "engagement": "89% رجوع من الدوام"},
+                {"slot": "سهرة المساء الكبرى ☕", "time": "09:30 PM - 01:00 AM", "engagement": "99% أعلى نشاط مشاهدات"}
+            ],
+            "bestDays": "الخميس والجمعة والسبت"
+        },
+        "AE_OM": {
+            "regionName": "الإمارات 🇦🇪 وسلطنة عمان 🇴🇲 (GMT+4)",
+            "goldenHours": [
+                {"slot": "استراحة الغداء 🏙️", "time": "02:00 PM - 03:30 PM", "engagement": "89% نشاط موظفين"},
+                {"slot": "فترة ما بعد العشاء 🌆", "time": "09:00 PM - 11:45 PM", "engagement": "97% ذروة التصفح"}
+            ],
+            "bestDays": "الجمعة والسبت والأحد"
+        }
+    }
 
 def build_master_payload():
     start_time = time.time()
@@ -3057,6 +3118,7 @@ def build_master_payload():
         "hidden_ad_interests": ads,
         "competitor_benchmarks": comps,
         "creator_rewards_matrix": REWARDS_MATRIX,
+        "posting_times": generate_posting_times(),
         "algorithm_mood_report": {
             "reportDate": datetime.now().strftime("%Y-%m-%d"),
             "algorithmStatus": "نشطة جداً: تدفع المحتوى العفوي (UGC) ⚡",

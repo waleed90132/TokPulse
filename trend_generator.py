@@ -2837,7 +2837,8 @@ REWARDS_MATRIX = {
 }
 
 # =========================================================================
-# ⚙️ محرك المعالجة والتوليد لـ data.json
+# ⚙️ [المنطقة الثانية: محركات السحب والتوليد الآلي - ENGINE LOGIC]
+# (تقوم بتوليد 150 صوتاً و 15 عنصراً لكل قسم تلقائياً)
 # =========================================================================
 
 FETCHED_AUDIO_CACHE = {}
@@ -2883,7 +2884,6 @@ def generate_150_sounds():
         for term in random.sample(terms, min(5, len(terms))):
             try:
                 country = random.choice(["sa", "ae", "eg", "jo"])
-                # زدنا الليمت لـ 40 عشان نسحب 150 صوت حقيقي مختلف بدون ما نكرر أسامي
                 url = f"https://itunes.apple.com/search?term={urllib.parse.quote(term)}&limit=40&media=music&country={country}"
                 req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
                 with urllib.request.urlopen(req, timeout=6) as response:
@@ -2917,7 +2917,6 @@ def generate_country_trends():
         shuffled_tags = data["tags"].copy()
         random.shuffle(shuffled_tags)
         formatted_list = []
-        # نختار 15 هاشتاج فقط لكل دولة لتخفيف حجم الملف
         for tag in shuffled_tags[:15]:
             views = f"+{random.randint(1, 45)}.{random.randint(1, 9)}{random.choice(['B', 'M'])}"
             growth = random.randint(150, 990)
@@ -2939,7 +2938,6 @@ def generate_country_trends():
 def generate_15_products():
     print("📦 3. جاري توليد 15 منتج دروب شيبينغ...")
     products = []
-    # هنا تم التعديل لـ 15 فقط
     for i in range(15):
         item = VIP_PRODUCTS_POOL[i % len(VIP_PRODUCTS_POOL)]
         growth = random.randint(320, 1850)
@@ -2962,7 +2960,6 @@ def generate_15_products():
 def generate_15_qa_and_comments():
     print("❓💬 4. جاري توليد 15 سؤال و 15 كومنت فايرال...")
     qa, comments = [], []
-    # هنا تم التعديل لـ 15 فقط
     for i in range(15):
         q = VIP_QUESTIONS_POOL[i % len(VIP_QUESTIONS_POOL)]
         boost = random.randint(50, 350)
@@ -2989,7 +2986,6 @@ def generate_15_qa_and_comments():
 def generate_15_capcut():
     print("🎬 5. جاري توليد 15 قالب CapCut...")
     templates = []
-    # هنا تم التعديل لـ 15 فقط
     for i in range(15):
         item = VIP_CAPCUT_POOL[i % len(VIP_CAPCUT_POOL)]
         growth = random.randint(150, 1200)
@@ -3008,7 +3004,6 @@ def generate_15_capcut():
 def generate_15_ads_and_competitors():
     print("🎯🕵️ 6. جاري توليد 15 اهتمام إعلاني و 30 حساب منافس...")
     ads = []
-    # هنا تم التعديل لـ 15 فقط
     for i in range(15):
         item = AD_KEYWORDS_POOL[i % len(AD_KEYWORDS_POOL)]
         ads.append({
@@ -3021,7 +3016,6 @@ def generate_15_ads_and_competitors():
         })
 
     comps = []
-    # هنا تم التعديل لـ 15 فقط للخليج و 15 للشام
     for i in range(15):
         region = "GULF" if i % 2 == 0 else "LEVANT"
         c = COMPETITORS_GULF[i % len(COMPETITORS_GULF)] if region == "GULF" else COMPETITORS_LEVANT[i % len(COMPETITORS_LEVANT)]
